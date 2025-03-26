@@ -54,6 +54,10 @@
 
 【报名截止：5.26】[暑期科研实习](https://mp.weixin.qq.com/s/EsfR6Y8QiyhDrpGaqYMWKA)
 
+【报名截止：5.11】[生命科学国际暑期学校](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202503/t20250324_53691.shtml)
+
+【报名截止：4.15】[理学院天文暑期学校](https://mp.weixin.qq.com/s/Gr_1JmNXXwuZWHajKVNgvw)
+
 ## 北京协和医学院
 
 【报名截止：4.10】[临床医学专业](https://mp.weixin.qq.com/s/v4twdwbRQ7OlwXqKyer3_g)
