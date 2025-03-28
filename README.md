@@ -18,7 +18,14 @@
 
 ## 上海交通大学
 
-【报名截止：6/30】[上海高级金融学院 ](https://phd.saif.sjtu.edu.cn/show-204-398.html)
+【报名截止：6.30】[上海高级金融学院 ](https://phd.saif.sjtu.edu.cn/show-204-398.html)
+
+【报名截止：6.24 10:00】[安泰经管学院-MF-优才营3](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw)
+
+【报名截止：5.7 10:00】[安泰经管学院-MF-优才营2 ](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw)
+
+【报名截止：4.2 10:00】[安泰经管学院-MF-优才营1 ](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw)
+
 
 ## 复旦大学
 
