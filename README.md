@@ -8,11 +8,17 @@
 
 【报名截止：N/A】[国际法学院](https://stl.pku.edu.cn/cn/admissions/83/shp.html)
 
+【报名截止：4.27】[统计科学中心](https://mp.weixin.qq.com/s/B6gyFmMOuvaBKR-dvSJBhA)
+
 【报名截止：4.16 16:00】[生命科学学院](https://www.bio.pku.edu.cn/homes/Index/news_cont/21/17622.html)
 
 【报名截止：3.31】[数学科学学院](https://www.math.pku.edu.cn/zygg/164939.htm)
 
 ~~【报名截止：3.21 17:00】[国家发展研究院-第七届国家发展青年论坛](https://mp.weixin.qq.com/s/RYSIFyblsJmTqGv4Mk_Ucw)~~
+
+## 上海交通大学
+
+【报名截止：6/30】[上海高级金融学院 ](https://phd.saif.sjtu.edu.cn/show-204-398.html)
 
 ## 复旦大学
 
@@ -36,7 +42,15 @@
 
 【报名截止：6月底】[物理学院](https://physics.nju.edu.cn/xwdt/tzggxlycgzhd/20250226/i308935.html)
 
+## 武汉大学
+
+【报名截止：境内6/23】[测绘遥感信息工程全国重点实验室地球空间信息科学国际暑期学校境外截至6月2日](https://mp.weixin.qq.com/s/6PEPpd9jkxqRrSdm5OJCEQ)
+
 ## 中国科学院
+
+【报名截止：6.30】[脑科学与智能技术卓越创新中心](http://www.cebsit.cas.cn/zsxx/202503/t20250327_7566334.html)
+
+【报名截止：6.25】[脑科学与智能技术卓越创新中心（神经科学研究所）](https://www.ion.ac.cn/yjs/tzgg/202503/t20250327_7566333.html)
 
 【报名截止：6.20】[上海营养与健康研究所](https://sedu.sinh.ac.cn/news.php?id=489)
 
