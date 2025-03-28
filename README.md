@@ -10,6 +10,8 @@
 
 【报名截止：4.27】[统计科学中心](https://mp.weixin.qq.com/s/B6gyFmMOuvaBKR-dvSJBhA)
 
+【报名截止：4.22 12:00】[光华管理学院](https://mp.weixin.qq.com/s/0KPD4C8hrnrTZ0D__0gi0Q)
+
 【报名截止：4.16 16:00】[生命科学学院](https://www.bio.pku.edu.cn/homes/Index/news_cont/21/17622.html)
 
 【报名截止：3.31】[数学科学学院](https://www.math.pku.edu.cn/zygg/164939.htm)
