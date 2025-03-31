@@ -35,7 +35,13 @@
 
 【报名截止：7.5】[管理学院-“博思营”硕博连读项目（第二轮）](https://mp.weixin.qq.com/s/cTf-12BMinxj3Utl6ob6SA)
 
+【报名截止：6月下旬】[管理学院2026级专业硕士项目-7月领创营](https://mp.weixin.qq.com/s/BcQ8gPRFejV7MOMtml_BUQ)
+
+【报名截止：6月下旬】[管理学院2026级专业硕士项目-7月智科营](https://mp.weixin.qq.com/s/BcQ8gPRFejV7MOMtml_BUQ)
+
 【报名截止：6.20】[化学系分子合成与识别科学中心](https://chemistry.fudan.edu.cn/00/a6/c45208a721062/page.htm)
+
+【报名截止：5月上旬】[管理学院2026级专业硕士项目-5月领创营](https://mp.weixin.qq.com/s/BcQ8gPRFejV7MOMtml_BUQ)
 
 【报名截止：5.10】[经济学院-专硕](https://econ.fudan.edu.cn/info/1519/30167.htm)
 
@@ -45,7 +51,13 @@
 
 【报名截止：4.24】[管理学院-“博思营”硕博连读项目（第一轮）](https://mp.weixin.qq.com/s/cTf-12BMinxj3Utl6ob6SA)
 
-【报名截止：3.31】[数学科学学院、上海数学中心班](https://scms.fudan.edu.cn/info/1047/8781.htm)
+【报名截止：4.8】[管理学院2026级专业硕士项目-5月智科营](https://mp.weixin.qq.com/s/BcQ8gPRFejV7MOMtml_BUQ)
+
+~~【报名截止：3.31】[数学科学学院、上海数学中心班](https://scms.fudan.edu.cn/info/1047/8781.htm)~~
+
+~~【报名截止：3.26】[管理学院2026级专业硕士项目-4月领创营](https://mp.weixin.qq.com/s/BcQ8gPRFejV7MOMtml_BUQ)~~
+
+~~【报名截止：3.16】[管理学院2026级专业硕士项目-3月领创营](https://mp.weixin.qq.com/s/BcQ8gPRFejV7MOMtml_BUQ)~~
 
 ## 南京大学
 
@@ -103,6 +115,10 @@
 
 【报名截止：5.31】[物理夏令营和暑期研究实习](https://mp.weixin.qq.com/s/MqUg8e_I9jsm8P6pM5awBA)
 
+## 香港大学
+
+~~【报名截止：2.24】[经管学院硕士](https://masters.hkubs.hku.hk/article/1648?hkusource=wechatandweibo_organic&utm_source=WeChatandWeibo&utm_medium=organic&utm_campaign=summercampapplication)~~
+
 ## 香港中文大学
 
 【报名截止：7.20】[（深圳）数据科学学院硕士项目-金融工程](https://sds.cuhk.edu.cn/article/2110)
@@ -115,11 +131,15 @@
 
 【报名截止：4.22】[工程学院](https://hkpfs.erg.cuhk.edu.hk/about-us)
 
+【报名截止：4.14】[（深圳）经济学硕士项目 （第二轮）](https://mp.weixin.qq.com/s/TKmn-oEB3cS6Td_1fGQxXw)
+
 【报名截止：4.14】[（深圳）会计理学硕士项目](https://mp.weixin.qq.com/s/fAALbt9fdcAkNjlUZxHAUg)
 
 【报名截止：4.14】[（深圳）经管学院-深圳高等金融研究院市场学硕士（第二轮）](https://mscmkt.cuhk.edu.cn/zh-hans/node/4002)
 
 ~~【报名截止：3.16】[（深圳）经管学院-深圳高等金融研究院市场学硕士（第一轮）](https://mscmkt.cuhk.edu.cn/zh-hans/node/4002)~~
+
+~~【报名截止：3.16】[（深圳）经济学硕士项目 （第一轮）](https://mp.weixin.qq.com/s/TKmn-oEB3cS6Td_1fGQxXw)~~
 
 ## 澳门大学
 
