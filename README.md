@@ -2,15 +2,23 @@
 
 ## 清华大学
 
+【报名截止：N/A】[统计与数据科学系](https://mp.weixin.qq.com/s/DTXHL2oZuLt7jid-5HaB_Q)
+
 【报名截止：5.5】[IDG/麦戈文脑科学研究院-神经与认知科学暑期培训班](https://mcgovern.life.tsinghua.edu.cn/ch/infoshow-2791.html)
+
+【报名截止：5.4 17:00】[经济管理学院](https://pg.sem.tsinghua.edu.cn/info/1008/7307.htm)
 
 ## 北京大学
 
 【报名截止：N/A】[国际法学院](https://stl.pku.edu.cn/cn/admissions/83/shp.html)
 
+【报名截止：6.15 12:00】[光华管理学院-社会学](https://www.gsm.pku.edu.cn/graduate/info/1030/6587.htm)
+
+【报名截止：5.12 12:00】[光华管理学院-经管类](https://www.gsm.pku.edu.cn/graduate/info/1030/6587.htm)
+
 【报名截止：4.27】[统计科学中心](https://mp.weixin.qq.com/s/B6gyFmMOuvaBKR-dvSJBhA)
 
-【报名截止：4.22 12:00】[光华管理学院](https://mp.weixin.qq.com/s/0KPD4C8hrnrTZ0D__0gi0Q)
+【报名截止：4.22 12:00】[光华管理学院-统计学](https://www.gsm.pku.edu.cn/graduate/info/1030/6587.htm)
 
 【报名截止：4.16 16:00】[生命科学学院](https://www.bio.pku.edu.cn/homes/Index/news_cont/21/17622.html)
 
@@ -25,6 +33,8 @@
 【报名截止：6.24 10:00】[安泰经管学院-MF-优才营3](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw)
 
 【报名截止：5.7 10:00】[安泰经管学院-MF-优才营2 ](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw)
+
+【报名截止：4.6】[数学科学学院 ](https://math.sjtu.edu.cn/Default/gonggaoshow/tag/MDAwMDAwMDAwMLGIft2HtKF2)
 
 【报名截止：4.2 10:00】[安泰经管学院-MF-优才营1 ](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw)
 
