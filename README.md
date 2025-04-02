@@ -4,25 +4,41 @@
 
 【报名截止：N/A】[统计与数据科学系](https://mp.weixin.qq.com/s/DTXHL2oZuLt7jid-5HaB_Q)
 
+【报名截止：6.16 12:00】[经济管理学院-管理硕士项目](https://masters.sem.tsinghua.edu.cn/info/1232/3248.htm)
+
+【报名截止：5.20 12:00】[经济管理学院、深圳国际研究生院-金融硕士项目（第二批）](https://masters.sem.tsinghua.edu.cn/info/1232/3249.htm)
+
 【报名截止：5.5】[IDG/麦戈文脑科学研究院-神经与认知科学暑期培训班](https://mcgovern.life.tsinghua.edu.cn/ch/infoshow-2791.html)
 
 【报名截止：5.4 17:00】[经济管理学院](https://pg.sem.tsinghua.edu.cn/info/1008/7307.htm)
+
+【报名截止：4.15 8:00】[求真书院](https://mp.weixin.qq.com/s/whDqQsUIXoGeaWYjMo-xkg)
+
+【报名截止：4.14 11:59】[经济管理学院、深圳国际研究生院-金融硕士项目（第一批）](https://masters.sem.tsinghua.edu.cn/info/1232/3249.htm)
 
 ## 北京大学
 
 【报名截止：N/A】[国际法学院](https://stl.pku.edu.cn/cn/admissions/83/shp.html)
 
+【报名截止：8.18 12:00】[金融硕士（金融学方向、科创金融方向）-第二批](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ)
+
 【报名截止：6.15 12:00】[光华管理学院-社会学](https://www.gsm.pku.edu.cn/graduate/info/1030/6587.htm)
 
 【报名截止：5.12 12:00】[光华管理学院-经管类](https://www.gsm.pku.edu.cn/graduate/info/1030/6587.htm)
+
+【报名截止：4.28 12:00】[金融硕士（商业分析方向）](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ)
+
+【报名截止：4.28 12:00】[会计硕士](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ)
 
 【报名截止：4.27】[统计科学中心](https://mp.weixin.qq.com/s/B6gyFmMOuvaBKR-dvSJBhA)
 
 【报名截止：4.22 12:00】[光华管理学院-统计学](https://www.gsm.pku.edu.cn/graduate/info/1030/6587.htm)
 
+【报名截止：4.21 12:00】[金融硕士（金融学方向、科创金融方向）-第一批](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ)
+
 【报名截止：4.16 16:00】[生命科学学院](https://www.bio.pku.edu.cn/homes/Index/news_cont/21/17622.html)
 
-【报名截止：3.31】[数学科学学院](https://www.math.pku.edu.cn/zygg/164939.htm)
+~~【报名截止：3.31】[数学科学学院](https://www.math.pku.edu.cn/zygg/164939.htm)~~
 
 ~~【报名截止：3.21 17:00】[国家发展研究院-第七届国家发展青年论坛](https://mp.weixin.qq.com/s/RYSIFyblsJmTqGv4Mk_Ucw)~~
 
@@ -34,9 +50,11 @@
 
 【报名截止：5.7 10:00】[安泰经管学院-MF-优才营2 ](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw)
 
+【报名截止：4.10】[李政道研究所 ](https://tdli.sjtu.edu.cn/announcement/15281)
+
 【报名截止：4.6】[数学科学学院 ](https://math.sjtu.edu.cn/Default/gonggaoshow/tag/MDAwMDAwMDAwMLGIft2HtKF2)
 
-【报名截止：4.2 10:00】[安泰经管学院-MF-优才营1 ](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw)
+~~【报名截止：4.2 10:00】[安泰经管学院-MF-优才营1 ](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw)~~
 
 
 ## 复旦大学
@@ -86,6 +104,8 @@
 【报名截止：6.20】[上海营养与健康研究所](https://sedu.sinh.ac.cn/news.php?id=489)
 
 【报名截止：6.20】[分子细胞科学卓越创新中心](https://mp.weixin.qq.com/s/a_pZvha1pjzy_joRUTC9Ng)
+
+【报名截止：4.15】[半导体研究所](https://sose.uestc.edu.cn/info/1069/10081.htm)
 
 ## 中国科学院大学
 
@@ -163,7 +183,7 @@
 
 ## 上海纽约大学
 
-【报名截止：3.31】[物理学](https://mp.weixin.qq.com/s/gJkw4xUfh3xqf2pQhbuWbg)
+~~【报名截止：3.31】[物理学](https://mp.weixin.qq.com/s/gJkw4xUfh3xqf2pQhbuWbg)~~
 
 
 
