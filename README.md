@@ -8,6 +8,8 @@
 
 【报名截止：5.20 12:00】[经济管理学院、深圳国际研究生院-金融硕士项目（第二批）](https://masters.sem.tsinghua.edu.cn/info/1232/3249.htm)
 
+【报名截止：5.9 12:00】[经济管理学院-哥伦比亚大学商务分析双硕士学位项目](https://masters.sem.tsinghua.edu.cn/info/1232/3247.htm)
+
 【报名截止：5.5】[IDG/麦戈文脑科学研究院-神经与认知科学暑期培训班](https://mcgovern.life.tsinghua.edu.cn/ch/infoshow-2791.html)
 
 【报名截止：5.4 17:00】[经济管理学院](https://pg.sem.tsinghua.edu.cn/info/1008/7307.htm)
