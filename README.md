@@ -28,6 +28,8 @@
 
 【报名截止：5.12 12:00】[光华管理学院-经管类](https://www.gsm.pku.edu.cn/graduate/info/1030/6587.htm)
 
+【报名截止：5.8】[国家发展研究院-全国经济学与管理学](https://nsd.pku.edu.cn/jxxm/yjs/zszl/tzgg2/540549.htm)
+
 【报名截止：4.28 12:00】[金融硕士（商业分析方向）](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ)
 
 【报名截止：4.28 12:00】[会计硕士](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ)
@@ -40,6 +42,8 @@
 
 【报名截止：4.16 16:00】[生命科学学院](https://www.bio.pku.edu.cn/homes/Index/news_cont/21/17622.html)
 
+【报名截止：4.8 12:00】[国际法学院](https://mp.weixin.qq.com/s/SiGYBFkBVCktzTABiN3tWQ)
+
 ~~【报名截止：3.31】[数学科学学院](https://www.math.pku.edu.cn/zygg/164939.htm)~~
 
 ~~【报名截止：3.21 17:00】[国家发展研究院-第七届国家发展青年论坛](https://mp.weixin.qq.com/s/RYSIFyblsJmTqGv4Mk_Ucw)~~
@@ -50,7 +54,11 @@
 
 【报名截止：6.24 10:00】[安泰经管学院-MF-优才营3](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw)
 
+【报名截止：6.16】[安泰经管学院-优才营-夏令营（会计专硕、学硕、直博）](https://mp.weixin.qq.com/s/KfG_zvxvJj3U5aTl6xKeCg)
+
 【报名截止：5.7 10:00】[安泰经管学院-MF-优才营2 ](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw)
+
+【报名截止：4.28】[安泰经管学院-优才营-春季营（会计专硕）](https://mp.weixin.qq.com/s/KfG_zvxvJj3U5aTl6xKeCg)
 
 【报名截止：4.10】[李政道研究所 ](https://tdli.sjtu.edu.cn/announcement/15281)
 
@@ -93,6 +101,11 @@
 
 【报名截止：6月底】[物理学院](https://physics.nju.edu.cn/xwdt/tzggxlycgzhd/20250226/i308935.html)
 
+## 中国科学技术大学
+
+【报名截止：5.10】[数学科学学院-偏微分方程暑期学校](https://math.ustc.edu.cn/2025/0403/c18650a679303/pagem.htm)
+
+
 ## 武汉大学
 
 【报名截止：境内6/23】[测绘遥感信息工程全国重点实验室地球空间信息科学国际暑期学校境外截至6月2日](https://mp.weixin.qq.com/s/6PEPpd9jkxqRrSdm5OJCEQ)
@@ -116,6 +129,10 @@
 ##  生命科学联合中心
 
 【报名截止：6.2】[（北大方面）](http://teach.cls.pku.edu.cn/clssum/xinwen/shownews.php?id=109)
+
+##  昌平实验室
+
+【报名截止：5.30 17:00】[昌平实验室](https://www.cpl.ac.cn/join_us/education/4028c1f195f2f0cd0195f50b80cb0017.html)
 
 ## 西湖大学
 
