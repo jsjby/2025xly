@@ -16,7 +16,11 @@
 
 【报名截止：5.4 17:00】[经济管理学院](https://pg.sem.tsinghua.edu.cn/info/1008/7307.htm)
 
+【报名截止：4.25】[智能与网络化系统研究中心](https://mp.weixin.qq.com/s/CakcW3znlmAixgflFAkYxA)
+
 【报名截止：4.20】[数学科学系](https://math.tsinghua.edu.cn/info/1134/2596.htm)
+
+【报名截止：4.16 17:00】[统计与数据科学系](https://mp.weixin.qq.com/s/XyUje2eDmgxKKwfP9p5iYw)
 
 【报名截止：4.15 8:00】[求真书院](https://mp.weixin.qq.com/s/whDqQsUIXoGeaWYjMo-xkg)
 
@@ -33,6 +37,8 @@
 【报名截止：5.12 12:00】[光华管理学院-经管类](https://www.gsm.pku.edu.cn/graduate/info/1030/6587.htm)
 
 【报名截止：5.8】[国家发展研究院-全国经济学与管理学](https://nsd.pku.edu.cn/jxxm/yjs/zszl/tzgg2/540549.htm)
+
+【报名截止：5.5 12:00】[物理学院](https://www.phy.pku.edu.cn/info/1018/10956.htm)
 
 【报名截止：4.28 12:00】[金融硕士（商业分析方向）](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ)
 
@@ -123,6 +129,12 @@
 【报名截止：6.20】[上海营养与健康研究所](https://sedu.sinh.ac.cn/news.php?id=489)
 
 【报名截止：6.20】[分子细胞科学卓越创新中心](https://mp.weixin.qq.com/s/a_pZvha1pjzy_joRUTC9Ng)
+
+【报名截止：6.20 12:00】[分子细胞科学卓越创新中心-“探索生命的多样性”](http://www.sippe.ac.cn/jypy/yjspy/yjs_zsqk/202504/t20250408_7590567.html)
+
+【报名截止：6.15】[生物与化学交叉研究中心](https://www.ircbc.cn/list.do?articleType_id=1261)
+
+【报名截止：5.16】[空天信息创新研究院](https://mp.weixin.qq.com/s/gPA9DoFlXGLyxR0FYvkSTQ)
 
 【报名截止：4.15】[半导体研究所](https://sose.uestc.edu.cn/info/1069/10081.htm)
 
