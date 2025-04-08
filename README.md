@@ -24,7 +24,7 @@
 
 【报名截止：4.15 8:00】[求真书院](https://mp.weixin.qq.com/s/whDqQsUIXoGeaWYjMo-xkg)
 
-【报名截止：4.14 11:59】[经济管理学院、深圳国际研究生院-金融硕士项目（第一批）](https://masters.sem.tsinghua.edu.cn/info/1232/3249.htm)
+~~【报名截止：4.14 11:59】[经济管理学院、深圳国际研究生院-金融硕士项目（第一批）](https://masters.sem.tsinghua.edu.cn/info/1232/3249.htm)~~
 
 ## 北京大学
 
@@ -52,7 +52,7 @@
 
 【报名截止：4.16 16:00】[生命科学学院](https://www.bio.pku.edu.cn/homes/Index/news_cont/21/17622.html)
 
-【报名截止：4.8 12:00】[国际法学院](https://mp.weixin.qq.com/s/SiGYBFkBVCktzTABiN3tWQ)
+~~【报名截止：4.8 12:00】[国际法学院](https://mp.weixin.qq.com/s/SiGYBFkBVCktzTABiN3tWQ)~~
 
 ~~【报名截止：3.31】[数学科学学院](https://www.math.pku.edu.cn/zygg/164939.htm)~~
 
@@ -72,7 +72,7 @@
 
 【报名截止：4.10】[李政道研究所 ](https://tdli.sjtu.edu.cn/announcement/15281)
 
-【报名截止：4.6】[数学科学学院 ](https://math.sjtu.edu.cn/Default/gonggaoshow/tag/MDAwMDAwMDAwMLGIft2HtKF2)
+~~【报名截止：4.6】[数学科学学院 ](https://math.sjtu.edu.cn/Default/gonggaoshow/tag/MDAwMDAwMDAwMLGIft2HtKF2)~~
 
 ~~【报名截止：4.2 10:00】[安泰经管学院-MF-优才营1 ](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw)~~
 
@@ -99,7 +99,7 @@
 
 【报名截止：4.24】[管理学院-“博思营”硕博连读项目（第一轮）](https://mp.weixin.qq.com/s/cTf-12BMinxj3Utl6ob6SA)
 
-【报名截止：4.8】[管理学院2026级专业硕士项目-5月智科营](https://mp.weixin.qq.com/s/BcQ8gPRFejV7MOMtml_BUQ)
+~~【报名截止：4.8】[管理学院2026级专业硕士项目-5月智科营](https://mp.weixin.qq.com/s/BcQ8gPRFejV7MOMtml_BUQ)~~
 
 ~~【报名截止：3.31】[数学科学学院、上海数学中心班](https://scms.fudan.edu.cn/info/1047/8781.htm)~~
 
@@ -114,7 +114,6 @@
 ## 中国科学技术大学
 
 【报名截止：5.10】[数学科学学院-偏微分方程暑期学校](https://math.ustc.edu.cn/2025/0403/c18650a679303/pagem.htm)
-
 
 ## 武汉大学
 
