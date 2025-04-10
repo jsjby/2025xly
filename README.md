@@ -8,7 +8,13 @@
 
 【报名截止：6.16 12:00】[经济管理学院-管理硕士项目](https://masters.sem.tsinghua.edu.cn/info/1232/3248.htm)
 
+【报名截止：6.12 16:00】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1860)
+
+【报名截止：6.12 16:00】[生命科学联合中心（北大方面）和PTN项目（北大方面）](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1859)
+
 【报名截止：5.20 12:00】[经济管理学院、深圳国际研究生院-金融硕士项目（第二批）](https://masters.sem.tsinghua.edu.cn/info/1232/3249.htm)
+
+【报名截止：5.20】[五道口金融学院金融硕士-第二批](https://www.pbcsf.tsinghua.edu.cn/info/1146/9566.htm)
 
 【报名截止：5.9 12:00】[经济管理学院-哥伦比亚大学商务分析双硕士学位项目](https://masters.sem.tsinghua.edu.cn/info/1232/3247.htm)
 
@@ -16,7 +22,11 @@
 
 【报名截止：5.4 17:00】[经济管理学院](https://pg.sem.tsinghua.edu.cn/info/1008/7307.htm)
 
+【报名截止：4.29】[五道口金融学院金融学博士](https://www.pbcsf.tsinghua.edu.cn/info/1147/9567.htm)
+
 【报名截止：4.25】[智能与网络化系统研究中心](https://mp.weixin.qq.com/s/CakcW3znlmAixgflFAkYxA)
+
+【报名截止：4.20】[五道口金融学院金融硕士-第一批](https://www.pbcsf.tsinghua.edu.cn/info/1146/9566.htm)
 
 【报名截止：4.20】[数学科学系](https://math.tsinghua.edu.cn/info/1134/2596.htm)
 
@@ -33,6 +43,8 @@
 【报名截止：8.18 12:00】[金融硕士（金融学方向、科创金融方向）-第二批](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ)
 
 【报名截止：6.15 12:00】[光华管理学院-社会学](https://www.gsm.pku.edu.cn/graduate/info/1030/6587.htm)
+
+【报名截止：6.16 12:00】[燕京学堂](https://mp.weixin.qq.com/s/jqtMTmWWANNTlqg2bweOSw)
 
 【报名截止：5.12 12:00】[光华管理学院-经管类](https://www.gsm.pku.edu.cn/graduate/info/1030/6587.htm)
 
@@ -220,6 +232,10 @@
 ## 上海纽约大学
 
 ~~【报名截止：3.31】[物理学](https://mp.weixin.qq.com/s/gJkw4xUfh3xqf2pQhbuWbg)~~
+
+## 广州医科大学
+
+【报名截止：6.15】[呼吸疾病全国重点实验室](https://mp.weixin.qq.com/s/eEnST7GQ-gdoHhguwcg1ig)
 
 
 
