@@ -8,13 +8,11 @@
 
 【报名截止：6.16 12:00】[经济管理学院-管理硕士项目](https://masters.sem.tsinghua.edu.cn/info/1232/3248.htm)
 
-【报名截止：6.12 16:00】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1860)
-
-【报名截止：6.12 16:00】[生命科学联合中心（北大方面）和PTN项目（北大方面）](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1859)
-
 【报名截止：5.20 12:00】[经济管理学院、深圳国际研究生院-金融硕士项目（第二批）](https://masters.sem.tsinghua.edu.cn/info/1232/3249.htm)
 
 【报名截止：5.20】[五道口金融学院金融硕士-第二批](https://www.pbcsf.tsinghua.edu.cn/info/1146/9566.htm)
+
+【报名截止：5.12 17:00】[物理系](https://www.phys.tsinghua.edu.cn/info/1271/6359.htm)
 
 【报名截止：5.9 12:00】[经济管理学院-哥伦比亚大学商务分析双硕士学位项目](https://masters.sem.tsinghua.edu.cn/info/1232/3247.htm)
 
@@ -46,9 +44,19 @@
 
 【报名截止：6.16 12:00】[燕京学堂](https://mp.weixin.qq.com/s/jqtMTmWWANNTlqg2bweOSw)
 
+【报名截止：6.12 16:00】[定量生物学中心](https://mp.weixin.qq.com/s/J9HECH7s3OGkf4s5FXJ3fA)
+
+【报名截止：6.12 16:00】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1860)
+
+【报名截止：6.12 16:00】[生命科学联合中心（北大方面）和PTN项目（北大方面）](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1859)
+
 【报名截止：5.12 12:00】[光华管理学院-经管类](https://www.gsm.pku.edu.cn/graduate/info/1030/6587.htm)
 
+【报名截止：5.9】[新结构经济学研究院](https://www.nse.pku.edu.cn/jxpy/xjgjjxxly/540632.htm)
+
 【报名截止：5.8】[国家发展研究院-全国经济学与管理学](https://nsd.pku.edu.cn/jxxm/yjs/zszl/tzgg2/540549.htm)
+
+【报名截止：5.5 】[全球健康发展研究院耶鲁](https://www.ghd.pku.edu.cn/xwzx/38bff67c5ddb45bd8c835b6a431bf422.htm)
 
 【报名截止：5.5 12:00】[物理学院](https://www.phy.pku.edu.cn/info/1018/10956.htm)
 
@@ -161,6 +169,10 @@
 
 【报名截止：5.30 17:00】[昌平实验室](https://www.cpl.ac.cn/join_us/education/4028c1f195f2f0cd0195f50b80cb0017.html)
 
+## 华东政法大学
+
+【报名截止：6.20】[知识产权学院](https://ipschool.ecupl.edu.cn/2025/0409/c13461a219698/page.htm)
+
 ## 西湖大学
 
 【报名截止：6.1 23:59】[数学国际暑期学校](https://science.westlake.edu.cn/newsevents/news/202504/t20250403_53982.shtml)
@@ -172,6 +184,8 @@
 【报名截止：4.15】[理学院天文暑期学校](https://mp.weixin.qq.com/s/Gr_1JmNXXwuZWHajKVNgvw)
 
 ## 北京协和医学院
+
+【报名截止：N/A】[北京协和医学院](https://graduate.pumc.edu.cn/zsw/info/1006/1802.htm)
 
 【报名截止：4.10】[临床医学专业](https://mp.weixin.qq.com/s/v4twdwbRQ7OlwXqKyer3_g)
 
