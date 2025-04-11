@@ -50,6 +50,8 @@
 
 【报名截止：6.12 16:00】[生命科学联合中心（北大方面）和PTN项目（北大方面）](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1859)
 
+【报名截止：6.6 12:00】[未来技术学院](https://future.pku.edu.cn/xwzk/0e6a3381425845eeaf45be7ac037681b.htm)
+
 【报名截止：5.12 12:00】[光华管理学院-经管类](https://www.gsm.pku.edu.cn/graduate/info/1030/6587.htm)
 
 【报名截止：5.9】[新结构经济学研究院](https://www.nse.pku.edu.cn/jxpy/xjgjjxxly/540632.htm)
@@ -85,6 +87,8 @@
 【报名截止：6.24 10:00】[安泰经管学院-MF-优才营3](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw)
 
 【报名截止：6.16】[安泰经管学院-优才营-夏令营（会计专硕、学硕、直博）](https://mp.weixin.qq.com/s/KfG_zvxvJj3U5aTl6xKeCg)
+
+【报名截止：6.1】[人文学院“语言科技工作坊”](https://mp.weixin.qq.com/s/et_PZN7IWlosXfVYKTlX8Q)
 
 【报名截止：5.7 10:00】[安泰经管学院-MF-优才营2 ](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw)
 
@@ -242,6 +246,10 @@
 ## 昆山杜克大学
 
 【报名截止：6.30】[医学物理硕士项目](https://mp.weixin.qq.com/s/jjDc24QGcAWFgLf73Gs3OQ)
+
+## 上海人工智能实验室
+
+【报名截止：N/A】[上海人工智能实验室](https://mp.weixin.qq.com/s/3hDyeKK8R5oQm7qbwyyU3A)
 
 ## 上海纽约大学
 
