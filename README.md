@@ -16,6 +16,8 @@
 
 【报名截止：5.9 12:00】[经济管理学院-哥伦比亚大学商务分析双硕士学位项目](https://masters.sem.tsinghua.edu.cn/info/1232/3247.htm)
 
+【报名截止：5.5 17:00】[交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/appinfo.php)
+
 【报名截止：5.5】[IDG/麦戈文脑科学研究院-神经与认知科学暑期培训班](https://mcgovern.life.tsinghua.edu.cn/ch/infoshow-2791.html)
 
 【报名截止：5.4 17:00】[经济管理学院](https://pg.sem.tsinghua.edu.cn/info/1008/7307.htm)
@@ -94,7 +96,7 @@
 
 【报名截止：4.28】[安泰经管学院-优才营-春季营（会计专硕）](https://mp.weixin.qq.com/s/KfG_zvxvJj3U5aTl6xKeCg)
 
-【报名截止：4.10】[李政道研究所 ](https://tdli.sjtu.edu.cn/announcement/15281)
+~~【报名截止：4.10】[李政道研究所 ](https://tdli.sjtu.edu.cn/announcement/15281)~~
 
 ~~【报名截止：4.6】[数学科学学院 ](https://math.sjtu.edu.cn/Default/gonggaoshow/tag/MDAwMDAwMDAwMLGIft2HtKF2)~~
 
@@ -157,6 +159,8 @@
 
 【报名截止：6.15】[生物与化学交叉研究中心](https://www.ircbc.cn/list.do?articleType_id=1261)
 
+【报名截止：6.10】[南海海洋研究所](https://scsio.cas.cn/yjsjy/lhpy/xly/202504/t20250414_7597977.html)
+
 【报名截止：5.16】[空天信息创新研究院](https://mp.weixin.qq.com/s/gPA9DoFlXGLyxR0FYvkSTQ)
 
 【报名截止：4.15】[半导体研究所](https://sose.uestc.edu.cn/info/1069/10081.htm)
@@ -191,7 +195,7 @@
 
 【报名截止：N/A】[北京协和医学院](https://graduate.pumc.edu.cn/zsw/info/1006/1802.htm)
 
-【报名截止：4.10】[临床医学专业](https://mp.weixin.qq.com/s/v4twdwbRQ7OlwXqKyer3_g)
+~~【报名截止：4.10】[临床医学专业](https://mp.weixin.qq.com/s/v4twdwbRQ7OlwXqKyer3_g)~~
 
 ## 南方科技大学
 
@@ -227,11 +231,11 @@
 
 【报名截止：4.22】[工程学院](https://hkpfs.erg.cuhk.edu.hk/about-us)
 
-【报名截止：4.14】[（深圳）经济学硕士项目 （第二轮）](https://mp.weixin.qq.com/s/TKmn-oEB3cS6Td_1fGQxXw)
+~~【报名截止：4.14】[（深圳）经济学硕士项目 （第二轮）](https://mp.weixin.qq.com/s/TKmn-oEB3cS6Td_1fGQxXw)~~
 
-【报名截止：4.14】[（深圳）会计理学硕士项目](https://mp.weixin.qq.com/s/fAALbt9fdcAkNjlUZxHAUg)
+~~【报名截止：4.14】[（深圳）会计理学硕士项目](https://mp.weixin.qq.com/s/fAALbt9fdcAkNjlUZxHAUg)~~
 
-【报名截止：4.14】[（深圳）经管学院-深圳高等金融研究院市场学硕士（第二轮）](https://mscmkt.cuhk.edu.cn/zh-hans/node/4002)
+~~【报名截止：4.14】[（深圳）经管学院-深圳高等金融研究院市场学硕士（第二轮）](https://mscmkt.cuhk.edu.cn/zh-hans/node/4002)~~
 
 ~~【报名截止：3.16】[（深圳）经管学院-深圳高等金融研究院市场学硕士（第一轮）](https://mscmkt.cuhk.edu.cn/zh-hans/node/4002)~~
 
