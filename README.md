@@ -4,6 +4,8 @@
 
 【报名截止：N/A】[统计与数据科学系](https://mp.weixin.qq.com/s/DTXHL2oZuLt7jid-5HaB_Q)
 
+【报名截止：N/A】[深圳国际研究生院郑泉水院士](https://mp.weixin.qq.com/s/x1dJij9cmAeidzhL-SczVQ)
+
 【报名截止：6.18】[电机系未来电力与能源系统](https://mp.weixin.qq.com/s/4ARcNUO022NWHTRCKpL1pA)
 
 【报名截止：6.16 12:00】[经济管理学院-管理硕士项目](https://masters.sem.tsinghua.edu.cn/info/1232/3248.htm)
@@ -21,6 +23,8 @@
 【报名截止：5.5 17:00】[交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/appinfo.php)
 
 【报名截止：5.5】[IDG/麦戈文脑科学研究院-神经与认知科学暑期培训班](https://mcgovern.life.tsinghua.edu.cn/ch/infoshow-2791.html)
+
+【报名截止：5.5】[能源环境经济研究所](https://mp.weixin.qq.com/s/Z7SPgX7rNiFY4CH1-0Ch_A)
 
 【报名截止：5.4 17:00】[经济管理学院](https://pg.sem.tsinghua.edu.cn/info/1008/7307.htm)
 
@@ -151,7 +155,11 @@
 
 ## 中山大学
 
-【报名截止：境内6/23】[大气科学学院行星环境与宜居性研究实验室](https://atmos.sysu.edu.cn/pearl/summerschool2025  )
+【报名截止：5.30】[大气科学学院行星环境与宜居性研究实验室](https://atmos.sysu.edu.cn/pearl/summerschool2025)
+
+## 山东大学
+
+【报名截止：6.15】[前沿交叉科学青岛研究院](https://frontier.qd.sdu.edu.cn/info/1011/8709.htm)
 
 ## 中国科学院
 
