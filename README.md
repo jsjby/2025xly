@@ -36,7 +36,7 @@
 
 【报名截止：4.20】[数学科学系](https://math.tsinghua.edu.cn/info/1134/2596.htm)
 
-【报名截止：4.16 17:00】[统计与数据科学系](https://mp.weixin.qq.com/s/XyUje2eDmgxKKwfP9p5iYw)
+~~【报名截止：4.16 17:00】[统计与数据科学系](https://mp.weixin.qq.com/s/XyUje2eDmgxKKwfP9p5iYw)~~
 
 ~~【报名截止：4.15 8:00】[求真书院](https://mp.weixin.qq.com/s/whDqQsUIXoGeaWYjMo-xkg)~~
 
@@ -82,7 +82,7 @@
 
 【报名截止：4.21 12:00】[金融硕士（金融学方向、科创金融方向）-第一批](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ)
 
-【报名截止：4.16 16:00】[生命科学学院](https://www.bio.pku.edu.cn/homes/Index/news_cont/21/17622.html)
+~~【报名截止：4.16 16:00】[生命科学学院](https://www.bio.pku.edu.cn/homes/Index/news_cont/21/17622.html)~~
 
 ~~【报名截止：4.8 12:00】[国际法学院](https://mp.weixin.qq.com/s/SiGYBFkBVCktzTABiN3tWQ)~~
 
@@ -167,6 +167,12 @@
 
 【报名截止：6.25】[脑科学与智能技术卓越创新中心（神经科学研究所）](https://www.ion.ac.cn/yjs/tzgg/202503/t20250327_7566333.html)
 
+【报名截止：6.25】[福建物质结构研究所](https://fjirsm.cas.cn/yjsjy/zsxx/202504/t20250417_7602139.html)
+
+【报名截止：6.20】[宁波材料技术与工程研究所](https://ncmte.nimte.ac.cn/view-31481.html)
+
+【报名截止：6.20】[上海光机所](https://siom.cas.cn/rcjy/zsxx/sszs/202504/t20250417_7603564.html)
+
 【报名截止：6.20】[上海营养与健康研究所](https://sedu.sinh.ac.cn/news.php?id=489)
 
 【报名截止：6.20】[分子细胞科学卓越创新中心](https://mp.weixin.qq.com/s/a_pZvha1pjzy_joRUTC9Ng)
@@ -225,6 +231,8 @@
 
 ## 南方科技大学
 
+【报名截止：6.13 23:00】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/383.html)
+
 【报名截止：5.5 23:00】[数学系](https://math.sustech.edu.cn/graduate_enrollment/13260)
 
 ## 澳门大学
@@ -271,7 +279,7 @@
 
 【报名截止：4.25】[应用物理及材料工程研究院](https://mp.weixin.qq.com/s/WeWq7kKJFmEekJecX9ioDA)
 
-【报名截止：4.17】[健康科学学院](https://mp.weixin.qq.com/s/IVXJExmWvXD2vDbG2oIrQA)
+~~【报名截止：4.17】[健康科学学院](https://mp.weixin.qq.com/s/IVXJExmWvXD2vDbG2oIrQA)~~
 
 ## 昆山杜克大学
 
@@ -288,6 +296,11 @@
 ## 广州医科大学
 
 【报名截止：6.15】[呼吸疾病全国重点实验室](https://mp.weixin.qq.com/s/eEnST7GQ-gdoHhguwcg1ig)
+
+## 哈尔滨医科大学
+
+【报名截止：5.10】[公共卫生学院](https://mp.weixin.qq.com/s/etHnzxt6ftg46TAxHBCZtQ)
+
 
 
 
