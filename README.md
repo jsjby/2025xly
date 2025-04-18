@@ -14,7 +14,11 @@
 
 【报名截止：5.20】[五道口金融学院金融硕士-第二批](https://www.pbcsf.tsinghua.edu.cn/info/1146/9566.htm)
 
+【报名截止：5.19 9:00】[天文系](https://mp.weixin.qq.com/s/7_Mwtx3zmB926fmJDeeirA)
+
 【报名截止：5.12 17:00】[物理系](https://www.phys.tsinghua.edu.cn/info/1271/6359.htm)
+
+【报名截止：5.11 17:00】[化学系](https://www.chem.tsinghua.edu.cn/info/1090/3556.htm)
 
 【报名截止：5.9 17:00】[地球系统科学系地学学科](https://www.dess.tsinghua.edu.cn/info/1123/6472.htm)
 
@@ -113,6 +117,8 @@
 
 ## 复旦大学
 
+【报名截止：N/A】[计算机科学技术学院协同信息与系统实验室](https://mp.weixin.qq.com/s/JSBAfIP1J4ngwfDfFpoiYA)
+
 【报名截止：N/A】[国际金融学院-精英金融专业硕士](https://mp.weixin.qq.com/s/tYBJQ5CzvzkhIoNByL6_8Q)
 
 【报名截止：7.5】[管理学院-“博思营”硕博连读项目（第二轮）](https://mp.weixin.qq.com/s/cTf-12BMinxj3Utl6ob6SA)
@@ -163,6 +169,8 @@
 
 ## 中国科学院
 
+【报名截止：N/A】[上海硅酸盐研究所](https://mp.weixin.qq.com/s/f46H25UE2T5OZcPTx6l3Yw)
+
 【报名截止：6.30】[脑科学与智能技术卓越创新中心](http://www.cebsit.cas.cn/zsxx/202503/t20250327_7566334.html)
 
 【报名截止：6.25】[脑科学与智能技术卓越创新中心（神经科学研究所）](https://www.ion.ac.cn/yjs/tzgg/202503/t20250327_7566333.html)
@@ -180,6 +188,8 @@
 【报名截止：6.20 12:00】[分子细胞科学卓越创新中心-“探索生命的多样性”](http://www.sippe.ac.cn/jypy/yjspy/yjs_zsqk/202504/t20250408_7590567.html)
 
 【报名截止：6.15】[生物与化学交叉研究中心](https://www.ircbc.cn/list.do?articleType_id=1261)
+
+【报名截止：6.15】[深圳先进技术研究院脑认知与脑疾病研究所](https://mp.weixin.qq.com/s/IhZb1ZuwAJp5DlmZs6WJuA)
 
 【报名截止：6.10】[南海海洋研究所](https://scsio.cas.cn/yjsjy/lhpy/xly/202504/t20250414_7597977.html)
 
