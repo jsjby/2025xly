@@ -54,6 +54,8 @@
 
 【报名截止：8.18 12:00】[金融硕士（金融学方向、科创金融方向）-第二批](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ)
 
+【报名截止：7.1】[对外汉语教育学院](https://hanyu.pku.edu.cn/xwgg/tzgg/387311.htm)
+
 【报名截止：6.20】[信息工程学院](https://www.ece.pku.edu.cn/info/1008/2924.htm)
 
 【报名截止：6.16 12:00】[燕京学堂](https://mp.weixin.qq.com/s/jqtMTmWWANNTlqg2bweOSw)
@@ -88,7 +90,7 @@
 
 【报名截止：4.27】[统计科学中心](https://mp.weixin.qq.com/s/B6gyFmMOuvaBKR-dvSJBhA)
 
-【报名截止：4.22 12:00】[光华管理学院-统计学](https://www.gsm.pku.edu.cn/graduate/info/1030/6587.htm)
+~~【报名截止：4.22 12:00】[光华管理学院-统计学](https://www.gsm.pku.edu.cn/graduate/info/1030/6587.htm)~~
 
 ~~【报名截止：4.21 12:00】[金融硕士（金融学方向、科创金融方向）-第一批](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ)~~
 
@@ -229,6 +231,8 @@
 
 ## 南方科技大学
 
+【报名截止：6.30】[前沿生物技术研究院](https://iab.sustech.edu.cn/Announce-detail-id-52.html)
+
 【报名截止：6.16 23:00】[机械与能源工程系](https://mp.weixin.qq.com/s/6tgnc8l5DFsL63xqppK8Ew)
 
 【报名截止：6.13 23:00】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/383.html)
@@ -236,6 +240,8 @@
 【报名截止：5.5 23:00】[数学系](https://math.sustech.edu.cn/graduate_enrollment/13260)
 
 ## 西湖大学
+
+【报名截止：N/A】[工学院人工智能与科学仿真发现实验室](https://mp.weixin.qq.com/s/SLQCiaiiMurWKkETaTRJyw)
 
 【报名截止：6.1 23:59】[数学国际暑期学校](https://science.westlake.edu.cn/newsevents/news/202504/t20250403_53982.shtml)
 
@@ -254,6 +260,10 @@
 ##  昌平实验室
 
 【报名截止：5.30 17:00】[昌平实验室](https://www.cpl.ac.cn/join_us/education/4028c1f195f2f0cd0195f50b80cb0017.html)
+
+##  上海创智学院
+
+【报名截止：N/A】[上海创智学院](https://admissions.sii.edu.cn/selectsbforapost.html)
 
 ##  北京脑科学与类脑研究所
 
