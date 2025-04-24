@@ -20,6 +20,8 @@
 
 【报名截止：5.11 17:00】[化学系](https://www.chem.tsinghua.edu.cn/info/1090/3556.htm)
 
+【报名截止：5.11 17:00】[国际与地区研究院](https://mp.weixin.qq.com/s/zHmODp6u0o0Sg_3eVaj5xQ)
+
 【报名截止：5.9 17:00】[地球系统科学系地学学科](https://www.dess.tsinghua.edu.cn/info/1123/6472.htm)
 
 【报名截止：5.9 12:00】[经济管理学院-哥伦比亚大学商务分析双硕士学位项目](https://masters.sem.tsinghua.edu.cn/info/1232/3247.htm)
@@ -50,11 +52,15 @@
 
 【报名截止：N/A】[国际法学院](https://stl.pku.edu.cn/cn/admissions/83/shp.html)
 
+【报名截止：N/A】[电子设计自动化研究院](https://mp.weixin.qq.com/s/37ezfmsZnv2AMmV7PEV-vA)
+
 【报名截止：N/A】[物理学院“物理学、天文学、核科学与技术](https://www.phy.pku.edu.cn/info/1018/10989.htm)
 
 【报名截止：8.18 12:00】[金融硕士（金融学方向、科创金融方向）-第二批](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ)
 
 【报名截止：7.1】[对外汉语教育学院](https://hanyu.pku.edu.cn/xwgg/tzgg/387311.htm)
+
+【报名截止：6.26 12:00】[物理学院现代光学研究所](https://mp.weixin.qq.com/s/PLiWaQWCs78A8ym_g4KxhQ)
 
 【报名截止：6.20】[信息工程学院](https://www.ece.pku.edu.cn/info/1008/2924.htm)
 
@@ -104,6 +110,8 @@
 
 ## 上海交通大学
 
+【报名截止：N/A】[天文学科 ](https://mp.weixin.qq.com/s/WlZpTUb_hCMcWqrRu2jX6Q)
+
 【报名截止：6.30】[上海高级金融学院 ](https://phd.saif.sjtu.edu.cn/show-204-398.html)
 
 【报名截止：6.24 10:00】[安泰经管学院-MF-优才营3](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw)
@@ -145,7 +153,7 @@
 
 【报名截止：4.25】[经济学院-直博](https://econ.fudan.edu.cn/info/1307/30147.htm)
 
-【报名截止：4.24】[管理学院-“博思营”硕博连读项目（第一轮）](https://mp.weixin.qq.com/s/cTf-12BMinxj3Utl6ob6SA)
+~~【报名截止：4.24】[管理学院-“博思营”硕博连读项目（第一轮）](https://mp.weixin.qq.com/s/cTf-12BMinxj3Utl6ob6SA)~~
 
 ~~【报名截止：4.8】[管理学院2026级专业硕士项目-5月智科营](https://mp.weixin.qq.com/s/BcQ8gPRFejV7MOMtml_BUQ)~~
 
@@ -159,13 +167,17 @@
 
 【报名截止：6月底】[物理学院](https://physics.nju.edu.cn/xwdt/tzggxlycgzhd/20250226/i308935.html)
 
+## 浙江大学
+
+【报名截止：5.21 17:00】[脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2025/0424/c75666a3042231/page.htm)
+
 ## 中国科学技术大学
 
 【报名截止：5.10】[数学科学学院-偏微分方程暑期学校](https://math.ustc.edu.cn/2025/0403/c18650a679303/pagem.htm)
 
 ## 武汉大学
 
-【报名截止：境内6/23】[测绘遥感信息工程全国重点实验室地球空间信息科学国际暑期学校境外截至6月2日](https://mp.weixin.qq.com/s/6PEPpd9jkxqRrSdm5OJCEQ)
+【报名截止：境内6.23】[测绘遥感信息工程全国重点实验室地球空间信息科学国际暑期学校境外截至6月2日](https://mp.weixin.qq.com/s/6PEPpd9jkxqRrSdm5OJCEQ)
 
 ## 中山大学
 
@@ -181,6 +193,8 @@
 
 【报名截止：N/A】[上海硅酸盐研究所](https://mp.weixin.qq.com/s/f46H25UE2T5OZcPTx6l3Yw)
 
+【报名截止：8.1】[上海药物所](https://simm.cas.cn/web/yjsjy/zsgz/xdly/202504/t20250424_7611069.html)
+
 【报名截止：7.2】[城市环境研究所](https://iue.cas.cn/zxgg/202504/t20250421_7604942.html)
 
 【报名截止：6.30】[脑科学与智能技术卓越创新中心](http://www.cebsit.cas.cn/zsxx/202503/t20250327_7566334.html)
@@ -188,6 +202,8 @@
 【报名截止：6.25】[脑科学与智能技术卓越创新中心（神经科学研究所）](https://www.ion.ac.cn/yjs/tzgg/202503/t20250327_7566333.html)
 
 【报名截止：6.25】[福建物质结构研究所](https://fjirsm.cas.cn/yjsjy/zsxx/202504/t20250417_7602139.html)
+
+【报名截止：6.25】[遗传发育所](https://genetics.cas.cn/edu/zsxx/xlytms/202504/t20250424_7611154.html)
 
 【报名截止：6.20】[宁波材料技术与工程研究所](https://ncmte.nimte.ac.cn/view-31481.html)
 
@@ -277,10 +293,11 @@
 
 【报名截止：6.20】[知识产权学院](https://ipschool.ecupl.edu.cn/2025/0409/c13461a219698/page.htm)
 
-
 ## 北京协和医学院
 
 【报名截止：N/A】[北京协和医学院](https://graduate.pumc.edu.cn/zsw/info/1006/1802.htm)
+
+【报名截止：6.25】[放射医学研究所](https://mp.weixin.qq.com/s/0jXH3nT9df8C__1sF1n80g)
 
 【报名截止：6.15 12:00】[血液病医院](https://mp.weixin.qq.com/s/p7GaHyyGt4r_khoMf84rSQ)
 
@@ -315,7 +332,7 @@
 
 【报名截止：4.30】[（深圳）数据科学学院硕士项目（第一轮）](https://sds.cuhk.edu.cn/article/2110)
 
-【报名截止：4.22】[工程学院](https://hkpfs.erg.cuhk.edu.hk/about-us)
+~~【报名截止：4.22】[工程学院](https://hkpfs.erg.cuhk.edu.hk/about-us)~~
 
 ~~【报名截止：4.14】[（深圳）经济学硕士项目 （第二轮）](https://mp.weixin.qq.com/s/TKmn-oEB3cS6Td_1fGQxXw)~~
 
