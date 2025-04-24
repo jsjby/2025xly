@@ -303,6 +303,11 @@
 
 ~~【报名截止：4.10】[临床医学专业](https://mp.weixin.qq.com/s/v4twdwbRQ7OlwXqKyer3_g)~~
 
+## 上海国家会计学院
+
+【报名截止：7.13】[上海国家会计学院-线下夏令营](https://www.snai.edu/master/2025/0423/86190.shtml)
+
+【报名截止：5.19】[上海国家会计学院-线上夏令营](https://www.snai.edu/master/2025/0423/86190.shtml)
 
 ## 澳门大学
 
