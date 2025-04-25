@@ -110,11 +110,15 @@
 
 ## 上海交通大学
 
+【报名截止：N/A】[物理与天文学院物理学科 ](https://www.physics.sjtu.edu.cn/index_notice/5475.html)
+
 【报名截止：N/A】[天文学科 ](https://mp.weixin.qq.com/s/WlZpTUb_hCMcWqrRu2jX6Q)
 
 【报名截止：6.30】[上海高级金融学院 ](https://phd.saif.sjtu.edu.cn/show-204-398.html)
 
 【报名截止：6.24 10:00】[安泰经管学院-MF-优才营3](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw)
+
+【报名截止：6.22 】[密西根学院](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2025-04-25/153326/)
 
 【报名截止：6.16】[安泰经管学院-优才营-夏令营（会计专硕、学硕、直博）](https://mp.weixin.qq.com/s/KfG_zvxvJj3U5aTl6xKeCg)
 
@@ -151,7 +155,7 @@
 
 【报名截止：5.10】[经济学院-直博](https://econ.fudan.edu.cn/info/1307/30147.htm)
 
-【报名截止：4.25】[经济学院-直博](https://econ.fudan.edu.cn/info/1307/30147.htm)
+~~【报名截止：4.25】[经济学院-直博](https://econ.fudan.edu.cn/info/1307/30147.htm)~~
 
 ~~【报名截止：4.24】[管理学院-“博思营”硕博连读项目（第一轮）](https://mp.weixin.qq.com/s/cTf-12BMinxj3Utl6ob6SA)~~
 
@@ -195,6 +199,8 @@
 
 【报名截止：8.1】[上海药物所](https://simm.cas.cn/web/yjsjy/zsgz/xdly/202504/t20250424_7611069.html)
 
+【报名截止：7.10】[北京纳米能源与系统研究所](https://mp.weixin.qq.com/s/0WstrVuyw6_9L0pnv6ogdg)
+
 【报名截止：7.2】[城市环境研究所](https://iue.cas.cn/zxgg/202504/t20250421_7604942.html)
 
 【报名截止：6.30】[脑科学与智能技术卓越创新中心](http://www.cebsit.cas.cn/zsxx/202503/t20250327_7566334.html)
@@ -208,6 +214,8 @@
 【报名截止：6.20】[宁波材料技术与工程研究所](https://ncmte.nimte.ac.cn/view-31481.html)
 
 【报名截止：6.20】[上海光机所](https://siom.cas.cn/rcjy/zsxx/sszs/202504/t20250417_7603564.html)
+
+【报名截止：6.20】[上海技术物理研究所](https://sitp.cas.cn/yjs/zsxx/ssszs/202504/t20250425_7614304.html)
 
 【报名截止：6.20】[上海营养与健康研究所](https://sedu.sinh.ac.cn/news.php?id=489)
 
@@ -259,9 +267,17 @@
 
 【报名截止：N/A】[工学院人工智能与科学仿真发现实验室](https://mp.weixin.qq.com/s/SLQCiaiiMurWKkETaTRJyw)
 
-【报名截止：6.1 23:59】[数学国际暑期学校](https://science.westlake.edu.cn/newsevents/news/202504/t20250403_53982.shtml)
+【报名截止：7.8 10:00】[化学系-第二期](https://science.westlake.edu.cn/newsevents/news/202504/t20250424_55121.shtml)
+
+【报名截止：6.25 10:00】[理学院物理系](https://science.westlake.edu.cn/newsevents/news/202504/t20250424_55123.shtml)
+
+【报名截止：6.25 10:00】[理学院数学](https://science.westlake.edu.cn/newsevents/news/202504/t20250424_55122.shtml)
+
+【报名截止：6.12 10:00】[化学系-第一期](https://science.westlake.edu.cn/newsevents/news/202504/t20250424_55121.shtml)
 
 【报名截止：6.9 10:00】[生命科学学院](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202504/t20250422_55038.shtml)
+
+【报名截止：6.1 23:59】[数学国际暑期学校](https://science.westlake.edu.cn/newsevents/news/202504/t20250403_53982.shtml)
 
 【报名截止：5.26】[暑期科研实习](https://mp.weixin.qq.com/s/EsfR6Y8QiyhDrpGaqYMWKA)
 
