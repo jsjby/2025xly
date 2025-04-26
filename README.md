@@ -36,7 +36,7 @@
 
 【报名截止：4.29】[五道口金融学院金融学博士](https://www.pbcsf.tsinghua.edu.cn/info/1147/9567.htm)
 
-【报名截止：4.25】[智能与网络化系统研究中心](https://mp.weixin.qq.com/s/CakcW3znlmAixgflFAkYxA)
+~~【报名截止：4.25】[智能与网络化系统研究中心](https://mp.weixin.qq.com/s/CakcW3znlmAixgflFAkYxA)~~
 
 ~~【报名截止：4.20】[五道口金融学院金融硕士-第一批](https://www.pbcsf.tsinghua.edu.cn/info/1146/9566.htm)~~
 
@@ -134,7 +134,6 @@
 
 ~~【报名截止：4.2 10:00】[安泰经管学院-MF-优才营1 ](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw)~~
 
-
 ## 复旦大学
 
 【报名截止：N/A】[计算机科学技术学院协同信息与系统实验室](https://mp.weixin.qq.com/s/JSBAfIP1J4ngwfDfFpoiYA)
@@ -179,6 +178,10 @@
 
 【报名截止：5.10】[数学科学学院-偏微分方程暑期学校](https://math.ustc.edu.cn/2025/0403/c18650a679303/pagem.htm)
 
+## 西安交通大学
+
+【报名截止：5.20】[“挑战杯-国创赛](https://mp.weixin.qq.com/s/b_caVtIyAV4G1AQ8-tAkQA)
+
 ## 武汉大学
 
 【报名截止：境内6.23】[测绘遥感信息工程全国重点实验室地球空间信息科学国际暑期学校境外截至6月2日](https://mp.weixin.qq.com/s/6PEPpd9jkxqRrSdm5OJCEQ)
@@ -202,6 +205,8 @@
 【报名截止：7.10】[北京纳米能源与系统研究所](https://mp.weixin.qq.com/s/0WstrVuyw6_9L0pnv6ogdg)
 
 【报名截止：7.2】[城市环境研究所](https://iue.cas.cn/zxgg/202504/t20250421_7604942.html)
+
+【报名截止：7.1】[青海盐湖研究所](https://isl.cas.cn/yjs/xly/202504/t20250425_7615489.html)
 
 【报名截止：6.30】[脑科学与智能技术卓越创新中心](http://www.cebsit.cas.cn/zsxx/202503/t20250327_7566334.html)
 
