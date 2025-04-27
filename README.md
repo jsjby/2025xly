@@ -198,6 +198,8 @@
 
 ## 中国科学院
 
+【报名截止：N/A】[软件所中文信息处理实验室](https://mp.weixin.qq.com/s/Ly5wTU-VpHvzjKOywgJ2AA)
+
 【报名截止：N/A】[上海硅酸盐研究所](https://mp.weixin.qq.com/s/f46H25UE2T5OZcPTx6l3Yw)
 
 【报名截止：8.1】[上海药物所](https://simm.cas.cn/web/yjsjy/zsgz/xdly/202504/t20250424_7611069.html)
@@ -217,6 +219,8 @@
 【报名截止：6.25】[遗传发育所](https://genetics.cas.cn/edu/zsxx/xlytms/202504/t20250424_7611154.html)
 
 【报名截止：6.20】[宁波材料技术与工程研究所](https://ncmte.nimte.ac.cn/view-31481.html)
+
+【报名截止：6.20】[上海应用物理研究所](https://www.sinap.cas.cn/yjsjynew/zsjz/sszs_177904/202504/t20250427_7617440.html)
 
 【报名截止：6.20】[上海光机所](https://siom.cas.cn/rcjy/zsxx/sszs/202504/t20250417_7603564.html)
 
@@ -240,6 +244,8 @@
 
 【报名截止：5.16】[空天信息创新研究院](https://mp.weixin.qq.com/s/gPA9DoFlXGLyxR0FYvkSTQ)
 
+【报名截止：5.13 17:00】[分子细胞科学卓越创新中心](https://mp.weixin.qq.com/s/5J6HdJq_x5zfpIViUvRScQ)
+
 ~~【报名截止：4.15】[半导体研究所](https://sose.uestc.edu.cn/info/1069/10081.htm)~~
 
 ## 中国科学院大学
@@ -256,9 +262,13 @@
 
 ## 上海科技大学
 
+【报名截止：6.20】[物质科学与技术学院](https://mp.weixin.qq.com/s/NubEkv0KpFv0jF79o_PM8Q)
+
 【报名截止：6.12】[生命科学与技术学院](https://slst.shanghaitech.edu.cn/2025/0422/c319a1110360/page.htm)
 
 ## 南方科技大学
+
+【报名截止：6.30】[医学院](https://mp.weixin.qq.com/s/VCLzYZGoa82vB9UoPVpS_Q)
 
 【报名截止：6.30】[前沿生物技术研究院](https://iab.sustech.edu.cn/Announce-detail-id-52.html)
 
@@ -353,6 +363,8 @@
 【报名截止：7.20】[（深圳）数据科学学院硕士项目-金融工程](https://sds.cuhk.edu.cn/article/2110)
 
 【报名截止：6.20】[（深圳）数据科学学院硕士项目（第二轮）](https://sds.cuhk.edu.cn/article/2110)
+
+【报名截止：6.10】[人文社科学院夏令营—FUN译营](https://mp.weixin.qq.com/s/iC-ny8BKslyHH8wVvsiepQ)
 
 【报名截止：5.9】[化学系](https://chem.cuhk.edu.hk/%e9%a6%99%e6%b8%af%e4%b8%ad%e6%96%87%e5%a4%a7%e5%ad%a6%e5%8c%96%e5%ad%a6%e7%b3%bb%e6%8b%9b%e7%94%9f%e5%a4%8f%e4%bb%a4%e8%90%a5-2024-2/)
 
