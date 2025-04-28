@@ -2,6 +2,8 @@
 
 ## 清华大学
 
+【报名截止：N/A】[智能产业研究院](https://mp.weixin.qq.com/s/8hYxusP2fwZKr0kbFVOa3A)
+
 【报名截止：N/A】[统计与数据科学系](https://mp.weixin.qq.com/s/DTXHL2oZuLt7jid-5HaB_Q)
 
 【报名截止：N/A】[深圳国际研究生院郑泉水院士](https://mp.weixin.qq.com/s/x1dJij9cmAeidzhL-SczVQ)
@@ -90,11 +92,11 @@
 
 【报名截止：5.5 12:00】[物理学院](https://www.phy.pku.edu.cn/info/1018/10956.htm)
 
-【报名截止：4.28 12:00】[金融硕士（商业分析方向）](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ)
+~~【报名截止：4.28 12:00】[金融硕士（商业分析方向）](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ)~~
 
-【报名截止：4.28 12:00】[会计硕士](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ)
+~~【报名截止：4.28 12:00】[会计硕士](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ)~~
 
-【报名截止：4.27】[统计科学中心](https://mp.weixin.qq.com/s/B6gyFmMOuvaBKR-dvSJBhA)
+~~【报名截止：4.27】[统计科学中心](https://mp.weixin.qq.com/s/B6gyFmMOuvaBKR-dvSJBhA)~~
 
 ~~【报名截止：4.22 12:00】[光华管理学院-统计学](https://www.gsm.pku.edu.cn/graduate/info/1030/6587.htm)~~
 
@@ -126,7 +128,7 @@
 
 【报名截止：5.7 10:00】[安泰经管学院-MF-优才营2 ](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw)
 
-【报名截止：4.28】[安泰经管学院-优才营-春季营（会计专硕）](https://mp.weixin.qq.com/s/KfG_zvxvJj3U5aTl6xKeCg)
+~~【报名截止：4.28】[安泰经管学院-优才营-春季营（会计专硕）](https://mp.weixin.qq.com/s/KfG_zvxvJj3U5aTl6xKeCg)~~
 
 ~~【报名截止：4.10】[李政道研究所 ](https://tdli.sjtu.edu.cn/announcement/15281)~~
 
@@ -238,9 +240,11 @@
 
 【报名截止：6.15】[深圳先进技术研究院脑认知与脑疾病研究所](https://mp.weixin.qq.com/s/IhZb1ZuwAJp5DlmZs6WJuA)
 
+【报名截止：6.15】[天津工业生物技术研究所](https://mp.weixin.qq.com/s/8QPr2qEnv4N0FhU4lb0iNg)
+
 【报名截止：6.10】[南海海洋研究所](https://scsio.cas.cn/yjsjy/lhpy/xly/202504/t20250414_7597977.html)
 
-【报名截止：6.10】[上海有机化学研究所](https://sioc.cas.cn/zs/202504/t20250415_7599009.html)
+【报名截止：6.6】[大气物理研究所](https://iap.cas.cn/gb/yjsjy/tzgg/202504/t20250428_7618406.html)
 
 【报名截止：5.16】[空天信息创新研究院](https://mp.weixin.qq.com/s/gPA9DoFlXGLyxR0FYvkSTQ)
 
@@ -249,6 +253,8 @@
 ~~【报名截止：4.15】[半导体研究所](https://sose.uestc.edu.cn/info/1069/10081.htm)~~
 
 ## 中国科学院大学
+
+【报名截止：6.20】[地球与行星科学学院](https://earth.ucas.ac.cn/index.php/zh-CN/zpxx/15340-2025-51)
 
 【报名截止：6.15】[物理科学学院-凝聚态及原子分子物理](https://physics.ucas.ac.cn/index.php/zh-CN/zsjy/2023-05-04-02-10-59/6413-2025-cmp)
 
@@ -272,7 +278,11 @@
 
 【报名截止：6.30】[前沿生物技术研究院](https://iab.sustech.edu.cn/Announce-detail-id-52.html)
 
+【报名截止：6.18】[生物医学工程系](https://mp.weixin.qq.com/s/ZENQ4XITj3XDnmb5Y4FiDA)
+
 【报名截止：6.16 23:00】[机械与能源工程系](https://mp.weixin.qq.com/s/6tgnc8l5DFsL63xqppK8Ew)
+
+【报名截止：6.16 23:00】[系统设计与智能制造学院](https://sdim.sustech.edu.cn/index/show?id=464)
 
 【报名截止：6.13 23:00】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/383.html)
 
@@ -303,6 +313,10 @@
 ##  生命科学联合中心
 
 【报名截止：6.2】[（北大方面）](http://teach.cls.pku.edu.cn/clssum/xinwen/shownews.php?id=109)
+
+##  中国工程物理研究院
+
+【报名截止：6.15】[中国工程物理研究院-北京本部](https://mp.weixin.qq.com/s/HHH8-zF0nXZhEh4YkO1pkg)
 
 ##  昌平实验室
 
@@ -384,7 +398,7 @@
 
 ## 澳门大学
 
-【报名截止：4.25】[应用物理及材料工程研究院](https://mp.weixin.qq.com/s/WeWq7kKJFmEekJecX9ioDA)
+~~【报名截止：4.25】[应用物理及材料工程研究院](https://mp.weixin.qq.com/s/WeWq7kKJFmEekJecX9ioDA)~~
 
 ~~【报名截止：4.17】[健康科学学院](https://mp.weixin.qq.com/s/IVXJExmWvXD2vDbG2oIrQA)~~
 
