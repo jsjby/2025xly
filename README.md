@@ -1,5 +1,7 @@
 # 2025，全网最全的夏令营通知，打破信息差
 
+# 关注最新网站，每天更新： https://baoyanxinxi.com
+
 ## 清华大学
 
 【报名截止：N/A】[智能产业研究院](https://mp.weixin.qq.com/s/8hYxusP2fwZKr0kbFVOa3A)
