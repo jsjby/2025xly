@@ -16,6 +16,8 @@
 
 【报名截止：6.15】[神经调控国家工程研究中心](https://mp.weixin.qq.com/s/0gL08oY9xNMTZF98aFYkDw)
 
+【报名截止：6.9 17：00】[精密仪器系](https://mp.weixin.qq.com/s/I90c35MwUNW0uE8KsLhW3Q)
+
 【报名截止：6.6】[社会科学学院](https://www.sss.tsinghua.edu.cn/info/1026/8026.htm)
 
 【报名截止：6.6 17：00】[车辆与运载学院](https://mp.weixin.qq.com/s/8lhVddNzSgnY6U7o5hZEww)
@@ -402,6 +404,8 @@
 
 【报名截止：6.12 17:00】[航空航天与力学学院](https://aero-mech.tongji.edu.cn/5b/da/c22245a351194/page.htm)
 
+【报名截止：6.10 17:00】[环境科学与工程学院](https://sese.tongji.edu.cn/info/1181/9093.htm)
+
 【报名截止：6.9 9:00】[体育教学部](https://sports.tongji.edu.cn/info/1049/2813.htm)
 
 【报名截止：6.8】[法学院](https://law.tongji.edu.cn/info/1113/8221.htm)
@@ -421,6 +425,8 @@
 【报名截止：5.30 17:00】[物理科学与工程学院](https://physics.tongji.edu.cn/info/1070/4323.htm)
 
 ## 中山大学
+
+【报名截止：6.12】[岭南学院](https://lingnan.sysu.edu.cn/postgraduateprogram/node/494)
 
 【报名截止：5.30】[大气科学学院行星环境与宜居性研究实验室](https://atmos.sysu.edu.cn/pearl/summerschool2025)
 
@@ -507,6 +513,10 @@
 【报名截止：6.22】[海洋研究所](http://www.qdio.ac.cn/yjs/zsxx/xly/202505/t20250512_833503.html)
 
 【报名截止：6.22】[过程工程研究所](http://edu.ipe.ac.cn/zsxx/sszs/202505/t20250513_542861.html)
+
+【报名截止：6.20】[公共政策与管理学院](https://sppm.ucas.ac.cn/index.php/zh-CN/zsgl/zsxx/3173-2024-32)
+
+【报名截止：6.20】[上海天文台](https://mp.weixin.qq.com/s/Z5vtRIO7S7U-KOXxIQkOvg)
 
 【报名截止：6.20】[新疆天文台](https://xao.ac.cn/xwdt/tzgg/202505/t20250509_7649140.html)
 
@@ -682,6 +692,8 @@
 
 【报名截止：6.9 9:00】[国家卓越工程师学院](https://mp.weixin.qq.com/s/0q1ehbKmIFlTWaGspkzpmQ)
 
+【报名截止：6.8 23：59】[生命科学学院](https://bio.sustech.edu.cn/notice/detail/2458.html)
+
 【报名截止：6.6】[环境学院](https://mp.weixin.qq.com/s/dUogytGQ_jW7UHwM52PIuQ)
 
 【报名截止：5.20】[计算生物医学暑期](https://mp.weixin.qq.com/s/te9aR7nkaxdOGASjluOFMw)
@@ -806,6 +818,8 @@
 
 【报名截止：6.15】[工商管理学院](https://gsgl.gufe.edu.cn/info/1059/6372.htm)
 
+【报名截止：6.13】[信息学院](https://xxxy.gufe.edu.cn/info/1049/4159.htm)
+
 ## 深圳大学
 
 【报名截止：7.1】[化学与环境工程学院](https://mp.weixin.qq.com/s/dvHX3nH_OPPNsOcV4_1waQ)
@@ -881,6 +895,10 @@
 ## 中国工程物理研究院
 
 【报名截止：6.30】[北京高压科学研究中心](https://mp.weixin.qq.com/s/LEFhgyJaYtPf5KaB1Yb9uQ)
+
+## 中国农业科学院
+
+【报名截止：6.25】[兰州兽医研究所](http://www.chvst.org.cn/xxzx/tzgg/4a1b8ae8deb042dab4c4cd535633dbbd.htm)
 
 ##  怀柔实验室
 
