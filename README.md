@@ -114,6 +114,10 @@
 
 【报名截止：6.5 8:30】[工学院-机械专业](https://www.coe.pku.edu.cn/announcements/college/13498.html)
 
+【报名截止：6.2】[教育经济研究所、教育经济与管理学系](https://mp.weixin.qq.com/s/LwbcbjVInJYflkhqc7mdZw)
+
+【报名截止：6.2】[中国空间站巡天空间望远镜（CSST）星系](https://astro.pku.edu.cn/info/1057/2544.htm)
+
 【报名截止：6.1】[城市规划与设计学院](https://urban.pkusz.edu.cn/info/1008/3634.htm)
 
 【报名截止：6.1 17:00】[环境科学与工程学院PKU-LSE项目环境管理专业（环境政策、技术与健康方向）](https://cese.pku.edu.cn/tzgg/167805.htm)
@@ -253,6 +257,8 @@
 【报名截止：6.10】[公共管理学院](http://www.spa.zju.edu.cn/spachinese/74541/list.htm)
 
 【报名截止：6.8 17:00】[外国语学院](http://www.sis.zju.edu.cn/sischinese/2025/0514/c23219a3049294/page.htm)
+
+【报名截止：6.5】[良渚实验室](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=249&id=2001)
 
 【报名截止：6.3】[基础医学院](https://bms.zju.edu.cn/2025/0429/c85156a3044184/page.htm)
 
@@ -408,6 +414,8 @@
 
 【报名截止：6.14 17：00】[上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/62/2c/c17827a352812/page.htm)
 
+【报名截止：6.13 17:00】[上海国际知识产权学院](https://sicip.tongji.edu.cn/info/1099/3701.htm)
+
 【报名截止：6.13 17:00】[生命科学与技术学院](https://life.tongji.edu.cn/5a/ba/c12614a350906/page.htm)
 
 【报名截止：6.13 12:00】[电子与信息工程学院](https://see.tongji.edu.cn/info/1173/13908.htm)
@@ -421,6 +429,8 @@
 【报名截止：6.9 9:00】[体育教学部](https://sports.tongji.edu.cn/info/1049/2813.htm)
 
 【报名截止：6.8】[法学院](https://law.tongji.edu.cn/info/1113/8221.htm)
+
+【报名截止：6.6 12：00】[计算机科学与技术学院](https://cs.tongji.edu.cn/info/1022/3675.htm)
 
 【报名截止：6.6 11:00】[国家卓越工程师学院](https://yz.tongji.edu.cn/info/1010/3921.htm)
 
@@ -471,6 +481,8 @@
 【报名截止：5.26】[草地农业科技学院第九届](https://mp.weixin.qq.com/s/oqcg70N53IJz9hczaAlALw)
 
 ## 中国科学院
+
+【报名截止：N/A】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/ao7AJdpYqnrMo8LM0jnElw)
 
 【报名截止：N/A】[合肥物质科学研究院核能安全技术研究所-（中国科学技术大学学籍）](https://mp.weixin.qq.com/s/3sBBBlkQOGTKdOvkH9GHSw)
 
@@ -652,6 +664,8 @@
 
 【报名截止：6.15 14:00】[杭高院数理学院](http://hias.ucas.ac.cn/mathphys/info/1166/1488.htm)
 
+【报名截止：6.10】[华大专项-北京站（北京华大生命科学研究院）](https://mp.weixin.qq.com/s/V4_efxOq0bGaePNs3OXu9A)
+
 【报名截止：6.10】[华大专项](https://mp.weixin.qq.com/s/N1DJtkwwODEiosdbBKIPKg)
 
 【报名截止：6.10】[华大专项-杭州站](https://mp.weixin.qq.com/s/Hbg2fOs57WQgwnF-Dh31Sg)
@@ -710,6 +724,8 @@
 
 【报名截止：6.13 23:00】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/383.html)
 
+【报名截止：6.10 23：59】[环境学院（延长）](https://mp.weixin.qq.com/s/5cBLB9wGmY5OcS5voiD9gg)
+
 【报名截止：6.9 9:00】[国家卓越工程师学院](https://mp.weixin.qq.com/s/0q1ehbKmIFlTWaGspkzpmQ)
 
 【报名截止：6.8 23：59】[生命科学学院](https://bio.sustech.edu.cn/notice/detail/2458.html)
@@ -760,6 +776,10 @@
 
 【报名截止：5.28】[外语学院](https://wyxy.ecupl.edu.cn/2025/0508/c4236a220087/page.htm)
 
+## 华中农业大学
+
+【报名截止：6.20】[马克思主义学院](https://mks.hzau.edu.cn/info/1034/11898.htm)
+
 ## 苏州大学
 
 【报名截止：6.23】[功能纳米与软物质研究院](https://funsom.suda.edu.cn/ac/e0/c2717a568544/page.htm)
@@ -784,13 +804,17 @@
 
 【报名截止：6.15 12:00】[血液病医院](https://mp.weixin.qq.com/s/p7GaHyyGt4r_khoMf84rSQ)
 
+## 中国医学科学院 
+
+【报名截止：6.22】[北京协和医学院生物医学工程研究所](https://mp.weixin.qq.com/s/OcBvD3N82jw_f7EGRgjBGw)
+
 【报名截止：6.10】[药物研究所](https://www.imm.ac.cn/tz/tzgg/7d7a63b8188e4f709bdafa863cb03a87.htm)
 
 【报名截止：6.10】[病原生物学研究所](https://www.ipbcams.ac.cn/zxxx/2946.html)
 
 【报名截止：6.6】[药用植物研究所](https://www.implad.ac.cn/yzxw.aspx?CateId=32&Id=8322)
 
-~~【报名截止：<span class="deadline" data-deadline="2025-04-10T23:59:59">Loading...</span>】[临床医学专业](https://mp.weixin.qq.com/s/v4twdwbRQ7OlwXqKyer3_g)~~
+~~【报名截止：4.10】[临床医学专业](https://mp.weixin.qq.com/s/v4twdwbRQ7OlwXqKyer3_g)~~
 
 ## 延边大学
 
@@ -986,6 +1010,8 @@
 ## 香港中文大学
 
 【报名截止：7.20】[（深圳）数据科学学院硕士项目-金融工程](https://sds.cuhk.edu.cn/article/2110)
+
+【报名截止：7.5】[（深圳）经管学院](https://sme.cuhk.edu.cn/article/3125)
 
 【报名截止：6.20】[（深圳）数据科学学院硕士项目（第二轮）](https://sds.cuhk.edu.cn/article/2110)
 
