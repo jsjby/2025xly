@@ -254,9 +254,13 @@
 
 【报名截止：6.22】[地球科学学院](http://gs.zju.edu.cn/2025/0519/c35088a3052763/page.htm)
 
+【报名截止：6.20 12：00】[生物医学工程与仪器科学学院](http://www.cbeis.zju.edu.cn/2025/0524/c63837a3054767/page.htm)
+
 【报名截止：6.16】[集成电路学院](https://ic.zju.edu.cn/2025/0522/c54011a3054130/page.htm)
 
 【报名截止：6.16 16：00】[药学院](http://www.cps.zju.edu.cn/2025/0519/c58875a3052513/pagem.htm)
+
+【报名截止：6.15】[海洋学院](http://oc.zju.edu.cn/2025/0523/c52420a3054699/page.htm)
 
 【报名截止：6.15】[机械工程学院](http://me.zju.edu.cn/mecn/2025/0523/c6202a3054476/page.htm)
 
@@ -481,6 +485,10 @@
 ## 中山大学
 
 【报名截止：6.20】[海洋科学学院](https://marine.sysu.edu.cn/article/10448)
+
+【报名截止：6.18】[物理学院](https://spe.sysu.edu.cn/node/4600)
+
+【报名截止：6.16 9：00】[物理与天文学院](https://spa.sysu.edu.cn/zh-hans/article/2604)
 
 【报名截止：6.15】[网络空间安全学院](https://scst.sysu.edu.cn/news/news02/1419108.htm)
 
@@ -924,7 +932,7 @@
 
 【报名截止：5.27 16：00】[数学与统计学院](https://math.nenu.edu.cn/index/ztwz/xly2025.htm)
 
-【报名截止：5.24 8:00】[经济与管理学院](https://bs.nenu.edu.cn/info/1383/5453.htm)
+~~【报名截止：5.24 8:00】[经济与管理学院](https://bs.nenu.edu.cn/info/1383/5453.htm)~~
 
 ## 南京信息工程大学
 
