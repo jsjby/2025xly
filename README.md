@@ -218,7 +218,7 @@
 
 【报名截止：6.18】[管理学院2026级专业硕士项目-7月智科营](https://mp.weixin.qq.com/s/BcQ8gPRFejV7MOMtml_BUQ)
 
-【报名截止：5.25】[历史学系国际暑期学校](https://history.fudan.edu.cn/info/1404/17771.htm)
+~~【报名截止：5.25】[历史学系国际暑期学校](https://history.fudan.edu.cn/info/1404/17771.htm)~~
 
 ~~【报名截止：5月上旬】[管理学院2026级专业硕士项目-5月领创营](https://mp.weixin.qq.com/s/BcQ8gPRFejV7MOMtml_BUQ)~~
 
@@ -256,6 +256,8 @@
 
 【报名截止：6.20 12：00】[生物医学工程与仪器科学学院](http://www.cbeis.zju.edu.cn/2025/0524/c63837a3054767/page.htm)
 
+【报名截止：6.19】[化学工程与生物工程学院](http://che.zju.edu.cn/checn/2025/0525/c15798a3054834/page.htm)
+
 【报名截止：6.16】[集成电路学院](https://ic.zju.edu.cn/2025/0522/c54011a3054130/page.htm)
 
 【报名截止：6.16 16：00】[药学院](http://www.cps.zju.edu.cn/2025/0519/c58875a3052513/pagem.htm)
@@ -282,9 +284,9 @@
 
 【报名截止：5.29】[物理学院](https://physics.zju.edu.cn/2025/0508/c69701a3047183/page.htm)
 
-【报名截止：5.25 22:00】[管理学院](http://www.som.zju.edu.cn/2025/0506/c63512a3045953/page.htm)
+~~【报名截止：5.25 22:00】[管理学院](http://www.som.zju.edu.cn/2025/0506/c63512a3045953/page.htm)~~
 
-【报名截止：5.25 22:00】[数据科学研究中心](http://cds.zju.edu.cn/a/zsxx/3662.html)
+~~【报名截止：5.25 22:00】[数据科学研究中心](http://cds.zju.edu.cn/a/zsxx/3662.html)~~
 
 ~~【报名截止：5.21 17:00】[脑科学与脑医学学院](http://www.neuroscience.zju.edu.cn/2025/0424/c75666a3042231/page.htm)~~
 
@@ -548,6 +550,8 @@
 
 【报名截止：N/A】[软件所中文信息处理实验室](https://mp.weixin.qq.com/s/Ly5wTU-VpHvzjKOywgJ2AA)
 
+【报名截止：N/A】[云南天文台（理论与计算太阳物理方向）](https://ynao.cas.cn/yjsjy/jydt/zs/202505/t20250523_7790910.html)
+
 【报名截止：N/A】[上海硅酸盐研究所](https://mp.weixin.qq.com/s/f46H25UE2T5OZcPTx6l3Yw)
 
 【报名截止：N/A】[地球环境研究所](https://ieexa.cas.cn/edu/tzgg/202505/t20250521_7789187.html)
@@ -693,6 +697,8 @@
 【报名截止：6.6】[物理所](https://edu.iphy.ac.cn/moredetail.php?id=50630)
 
 【报名截止：6.5】[西安光学精密机械研究所-第一期](https://mp.weixin.qq.com/s/F1cF-GDdXrKsmwetsTGERg)
+
+【报名截止：6.5>】[古脊椎动物与古人类研究所分子古生物学实验室（付巧妹研究员课题组）](https://www.ivpp.ac.cn/tzgg/202505/t20250523_7790931.html)
 
 【报名截止：6.5】[生态环境研究中心](https://rcees.cas.cn/tzg/tzgg/jyc_200780/202505/t20250512_7649907.html)
 
