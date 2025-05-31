@@ -28,7 +28,7 @@
 
 【报名截止：6.6 17：00】[车辆与运载学院](https://mp.weixin.qq.com/s/8lhVddNzSgnY6U7o5hZEww)
 
-【报名截止：5.30 17：00】[建筑环境与能源应用工程专业](https://mp.weixin.qq.com/s/BnLNQe4YoqBGQcZNT-7XiQ)
+~~【报名截止：5.30 17：00】[建筑环境与能源应用工程专业](https://mp.weixin.qq.com/s/BnLNQe4YoqBGQcZNT-7XiQ)~~
 
 ~~【报名截止：5.23 17：00】[新闻与传播学院](https://www.tsjc.tsinghua.edu.cn/info/1027/2778.htm)~~
 
@@ -124,6 +124,8 @@
 
 【报名截止：6.2】[中国空间站巡天空间望远镜（CSST）星系](https://astro.pku.edu.cn/info/1057/2544.htm)
 
+【报名截止：6.1】[化学学院和深研院化生学院](https://www.chem.pku.edu.cn/tzgg11/167871.htm)
+
 【报名截止：6.1】[城市规划与设计学院](https://urban.pkusz.edu.cn/info/1008/3634.htm)
 
 【报名截止：6.1 17:00】[环境科学与工程学院PKU-LSE项目环境管理专业（环境政策、技术与健康方向）](https://cese.pku.edu.cn/tzgg/167805.htm)
@@ -216,7 +218,7 @@
 
 【报名截止：6.1】[人文学院“语言科技工作坊”](https://mp.weixin.qq.com/s/et_PZN7IWlosXfVYKTlX8Q)
 
-【报名截止：5.30】[溥渊未来技术学院-脑的真相与未来健康](https://mp.weixin.qq.com/s/BGYPyKPa0lt81EFMXKZL9g)
+~~【报名截止：5.30】[溥渊未来技术学院-脑的真相与未来健康](https://mp.weixin.qq.com/s/BGYPyKPa0lt81EFMXKZL9g)~~
 
 ~~【报名截止：5.7 10:00】[安泰经管学院-MF-优才营2 ](https://mp.weixin.qq.com/s/CO7stIYb88aY6wCOnXYwpw)~~
 
@@ -422,7 +424,7 @@
 
 【报名截止：6.7 17:00】[（深圳）集成电路学院](http://ic.hitsz.edu.cn/info/1032/2527.htm)
 
-【报名截止：5.31】[电子与信息工程学院](http://seie.hit.edu.cn/2025/0507/c17148a369613/page.htm)
+~~【报名截止：5.31】[电子与信息工程学院](http://seie.hit.edu.cn/2025/0507/c17148a369613/page.htm)~~
 
 ## 西安交通大学
 
@@ -636,9 +638,9 @@
 
 【报名截止：6.1 12:00】[艺术与传媒学院](https://am.tongji.edu.cn/info/1482/5563.htm)
 
-【报名截止：5.30】[海洋与地球科学学院](https://mgg.tongji.edu.cn/5a/10/c10032a350736/page.htm)
+~~【报名截止：5.30】[海洋与地球科学学院](https://mgg.tongji.edu.cn/5a/10/c10032a350736/page.htm)~~
 
-【报名截止：5.30 17:00】[物理科学与工程学院](https://physics.tongji.edu.cn/info/1070/4323.htm)
+~~【报名截止：5.30 17:00】[物理科学与工程学院](https://physics.tongji.edu.cn/info/1070/4323.htm)~~
 
 ## 中山大学
 
@@ -680,7 +682,7 @@
 
 【报名截止：6.5 23：59】[软件工程学院](https://sse.sysu.edu.cn/article/908)
 
-【报名截止：5.30】[大气科学学院行星环境与宜居性研究实验室](https://atmos.sysu.edu.cn/pearl/summerschool2025)
+~~【报名截止：5.30】[大气科学学院行星环境与宜居性研究实验室](https://atmos.sysu.edu.cn/pearl/summerschool2025)~~
 
 ~~【报名截止：5.26 8：00】[中国语言文学系](https://mp.weixin.qq.com/s/254xmOl0gQMQQ2_41ejYrg)~~
 
@@ -700,7 +702,7 @@
 
 ## 中国农业大学
 
-【报名截止：<span class="deadline" data-deadline="2025-06-21T12:00:00">Loading...</span>】[生物学院](https://cbs.cau.edu.cn/art/2025/5/30/art_8729_1070477.html)
+【报名截止：6。21 12：00】[生物学院](https://cbs.cau.edu.cn/art/2025/5/30/art_8729_1070477.html)
 
 ## 山东大学
 
@@ -972,9 +974,9 @@
 
 【报名截止：延长6.6 20：00】[经经济与管理学院和中国科学院数学与系统科学研究院预测科学研究中心联合院](https://mp.weixin.qq.com/s/12LEpNgY-Uy-W80JENeD7Q)
 
-【报名截止：5.30】[前沿交叉科学学院](https://mp.weixin.qq.com/s/xRw7sCbjFlflqUa7Z4r4Ug)
+~~【报名截止：5.30】[前沿交叉科学学院](https://mp.weixin.qq.com/s/xRw7sCbjFlflqUa7Z4r4Ug)~~
 
-【报名截止：5.29】[经济与管理学院](https://mp.weixin.qq.com/s/EDpRmYrx7PrZd5p5DM6F8w)
+~~【报名截止：5.29】[经济与管理学院](https://mp.weixin.qq.com/s/EDpRmYrx7PrZd5p5DM6F8w)~~
 
 ~~【报名截止：5.28】[国际理论物理中心（亚太地区）](https://ictp-ap.org/event/199#/)~~
 
@@ -1080,7 +1082,7 @@
 
 【报名截止：6.15】[政府管理学院](https://mp.weixin.qq.com/s/-IWzUKcHE8tjVMFr_YZX1Q)
 
-【报名截止：5.28】[外语学院](https://wyxy.ecupl.edu.cn/2025/0508/c4236a220087/page.htm)
+~~【报名截止：5.28】[外语学院](https://wyxy.ecupl.edu.cn/2025/0508/c4236a220087/page.htm)~~
 
 ## 华中农业大学
 
@@ -1213,8 +1215,6 @@
 【报名截止：6.15】[应用经济学院](https://dsjyj.gufe.edu.cn/info/1260/5165.htm)
 
 【报名截止：6.15】[工商管理学院](https://gsgl.gufe.edu.cn/info/1059/6372.htm)
-
-【报名截止：6.15】[应用经济学院](https://dsjyj.gufe.edu.cn/info/1260/5165.htm)
 
 【报名截止：6.13】[信息学院](https://xxxy.gufe.edu.cn/info/1049/4159.htm)
 
@@ -1386,7 +1386,7 @@
 
 ##  怀柔实验室
 
-【报名截止：5.31 17:00】[能源科技与前沿技术](https://mp.weixin.qq.com/s/wCHaQkxTCo_CQU_diLw60Q)
+【报名截止：6.3 17:00】[能源科技与前沿技术](https://mp.weixin.qq.com/s/wCHaQkxTCo_CQU_diLw60Q)
 
 ## 鹏城国家实验室
 
@@ -1394,7 +1394,7 @@
 
 ## 广州国家实验室
 
-【报名截止：5.31 17:00】[广州国家实验室](https://mp.weixin.qq.com/s/U3kMZUbyyXSNT4UseHJWlA)
+【报名截止：6.30】[广州国家实验室](https://mp.weixin.qq.com/s/U3kMZUbyyXSNT4UseHJWlA)
 
 ## 广东省智能科学与技术研究院
 
@@ -1408,7 +1408,7 @@
 
 ## 深圳医学科学院
 
-【报名截止：5.26 10:00】[深圳湾实验室](https://mp.weixin.qq.com/s/_y0qZCMTcr6J8Z_CB34EPw)
+~~【报名截止：5.26 10:00】[深圳湾实验室](https://mp.weixin.qq.com/s/_y0qZCMTcr6J8Z_CB34EPw)~~
 
 ##  临港实验室
 
