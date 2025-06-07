@@ -20,6 +20,8 @@
 
 【报名截止：6.16 9:00】[（深圳）环境与生态研究院](https://mp.weixin.qq.com/s/h8h0stcQIZEfdpUuqx1NAA)
 
+【报名截止：6.15】[电子工程系微波与天线研究所](https://www.ee.tsinghua.edu.cn/info/1078/4801.htm)
+
 【报名截止：6.15】[神经调控国家工程研究中心](https://mp.weixin.qq.com/s/0gL08oY9xNMTZF98aFYkDw)
 
 【报名截止：6.10】[电子工程系](https://www.ee.tsinghua.edu.cn/info/1078/4791.htm)
@@ -101,6 +103,10 @@
 【报名截止：6.22 12：00】[金融硕士（金融学方向、科创金融方向）-第二批](https://mp.weixin.qq.com/s/CKMA1HJdbRbK6f_FvalgxQ)
 
 【报名截止：6.20】[信息工程学院](https://www.ece.pku.edu.cn/info/1008/2924.htm)
+
+【报名截止：6.20】[数学科学学院](https://www.math.pku.edu.cn/zygg/168587.htm)
+
+【报名截止：6.20 17：00】[城市与环境学院](https://www.ues.pku.edu.cn/sytzgg/049867d4987c485aa3a0e1a0a57e6c3c.htm)
 
 【报名截止：6.18 8：00】[集成电路学院](https://ic.pku.edu.cn/rcpy/yjszs/fe8d13de71c144ddadc0ba59d283ed5d.htm)
 
@@ -261,6 +267,8 @@
 【报名截止：6.18】[生命科学技术学院-微生物科学技术夏令营之一](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
 【报名截止：6.18 22：00】[凯原法学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
+
+【报名截止：6.17】[数学科学学院](https://math.sjtu.edu.cn/Default/gonggaoshow/tag/MDAwMDAwMDAwMLGIfpSF2qF2)
 
 【报名截止：6.16】[安泰经管学院-优才营-夏令营（会计专硕、学硕、直博）](https://mp.weixin.qq.com/s/KfG_zvxvJj3U5aTl6xKeCg)
 
