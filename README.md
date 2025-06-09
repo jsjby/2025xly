@@ -4,6 +4,8 @@
 
 ## 清华大学
 
+> 【报名截止：7.28 12：00】[清华大学招生信息](https://yz.tsinghua.edu.cn/info/1024/3009.htm)
+
 【报名截止：N/A】[智能产业研究院](https://mp.weixin.qq.com/s/8hYxusP2fwZKr0kbFVOa3A)
 
 【报名截止：N/A】[统计与数据科学系](https://mp.weixin.qq.com/s/DTXHL2oZuLt7jid-5HaB_Q)
@@ -428,7 +430,7 @@
 
 【报名截止：6.10】[公共管理学院](http://www.spa.zju.edu.cn/spachinese/74541/list.htm)
 
-【报名截止：6.8 17:00】[外国语学院](http://www.sis.zju.edu.cn/sischinese/2025/0514/c23219a3049294/page.htm)
+~~【报名截止：6.8 17:00】[外国语学院](http://www.sis.zju.edu.cn/sischinese/2025/0514/c23219a3049294/page.htm)~~
 
 ~~【报名截止：6.5】[良渚实验室](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=249&id=2001)~~
 
@@ -654,11 +656,11 @@
 
 【报名截止：6.9】[环境学院](https://env.bnu.edu.cn/tzgg4/3b92d5357f49411784d8f685ce1b1579.htm)
 
-【报名截止：6.8】[教育学部](https://fe.bnu.edu.cn/html/1/news/20250526/n8800.html)
+~~【报名截止：6.8】[教育学部](https://fe.bnu.edu.cn/html/1/news/20250526/n8800.html)~~
 
-【报名截止：6.8】[学前教育专业](https://mp.weixin.qq.com/s/AjPOTOJNXAcHG6JwVroKsA)
+~~【报名截止：6.8】[学前教育专业](https://mp.weixin.qq.com/s/AjPOTOJNXAcHG6JwVroKsA)~~
 
-【报名截止：6.8 18：00】[教育学部教师教育研究院](https://mp.weixin.qq.com/s/nim3v9JcDGCaRjfRZFdfXw)
+~~【报名截止：6.8 18：00】[教育学部教师教育研究院](https://mp.weixin.qq.com/s/nim3v9JcDGCaRjfRZFdfXw)~~
 
 ~~【报名截止：6.4】[马克思主义学院](https://marx.bnu.edu.cn/xstd/tzgg/eefb0dd5bcdb45a0ad954e90c8874e8b.html)~~
 
@@ -690,7 +692,7 @@
 
 【报名截止：6.16】[化学学院](https://chem.nankai.edu.cn/2025/0529/c24089a572089/page.htm)
 
-【报名截止：6.8】[旅游/会展管理](https://tas.nankai.edu.cn/info/1071/6294.htm)
+~~【报名截止：6.8】[旅游/会展管理](https://tas.nankai.edu.cn/info/1071/6294.htm)~~
 
 ## 厦门大学
 
@@ -766,7 +768,7 @@
 
 【报名截止：6.9 9:00】[体育教学部](https://sports.tongji.edu.cn/info/1049/2813.htm)
 
-【报名截止：6.8】[法学院](https://law.tongji.edu.cn/info/1113/8221.htm)
+~~【报名截止：6.8】[法学院](https://law.tongji.edu.cn/info/1113/8221.htm)~~
 
 ~~【报名截止：6.6 17：00】[建筑与城市规划学院](https://caup.tongji.edu.cn/62/e3/c33339a352995/page.htm)~~
 
@@ -805,6 +807,8 @@
 【报名截止：6.22】[哲学学院](http://phil.hust.edu.cn/info/1050/4969.htm)
 
 【报名截止：6.22 22：00】[材药学院（深圳）](https://yxysz.sysu.edu.cn/zh-hans/article/1570)
+
+【报名截止：6.22 16：00】[先进制造学院](https://mp.weixin.qq.com/s/SmUparz9cWV-jdH4nPLX4A)
 
 【报名截止：6.21】[理学院](https://science.sysu.edu.cn/article/993)
 
@@ -874,6 +878,8 @@
 
 【报名截止：6.28】[同济医学院基础医学院](https://mp.weixin.qq.com/s/U4ujcp_8ccGPuyf4DBGVFQ)
 
+【报名截止：6.23 17：00】[光学与电子信息学院](https://mp.weixin.qq.com/s/Q9WsoqsWKLkeu-xD3Id-aA)
+
 【报名截止：6.22】[物理科学与技术学院](https://phy.ccnu.edu.cn/info/1055/11858.htm)
 
 【报名截止：6.22】[哲学学院](http://phil.hust.edu.cn/info/1050/4969.htm)
@@ -901,6 +907,8 @@
 ## 华东师范大学
 
 【报名截止：6.20】[统计学院](https://stat.ecnu.edu.cn/ad/42/c9708a699714/page.htm)
+
+【报名截止：6.18 10：00】[外语学院](https://mp.weixin.qq.com/s/8VxQfvTkB_5rvL6ey_HzqQ)
 
 【报名截止：6.17】[经济与管理学院金融硕士](https://sem.ecnu.edu.cn/ac/c5/c42845a699589/page.htm)
 
@@ -932,7 +940,7 @@
 
 【报名截止：6.15】[基础医学院](https://medicine.jlu.edu.cn/info/1308/13586.htm)
 
-【报名截止：6.8 18：00】[机械与航空航天工程学院](https://mae.jlu.edu.cn/info/1010/24277.htm)
+~~【报名截止：6.8 18：00】[机械与航空航天工程学院](https://mae.jlu.edu.cn/info/1010/24277.htm)~~
 
 ## 中国海洋大学
 
@@ -1320,7 +1328,7 @@
 
 【报名截止：6.9 9:00】[国家卓越工程师学院](https://mp.weixin.qq.com/s/0q1ehbKmIFlTWaGspkzpmQ)
 
-【报名截止：6.8 23：59】[生命科学学院](https://bio.sustech.edu.cn/notice/detail/2458.html)
+~~【报名截止：6.8 23：59】[生命科学学院](https://bio.sustech.edu.cn/notice/detail/2458.html)~~
 
 ~~【报名截止：6.6】[环境学院](https://mp.weixin.qq.com/s/dUogytGQ_jW7UHwM52PIuQ)~~
 
@@ -1594,6 +1602,8 @@
 
 【报名截止：N/A】[外国语学院](https://sfl.szu.edu.cn/info/1121/5650.htm)
 
+【报名截止：7.3】[人文学院](https://wxy.szu.edu.cn/info/1083/2613.htm)
+
 【报名截止：7.1】[化学与环境工程学院](https://mp.weixin.qq.com/s/dvHX3nH_OPPNsOcV4_1waQ)
 
 【报名截止：6.28】[高等研究院](https://mp.weixin.qq.com/s/wt271utioHNjteWkajrzJA)
@@ -1636,7 +1646,7 @@
 
 【报名截止：6.9 17：00】[金融学院](https://jrxy.gdufs.edu.cn/info/1061/7605.htm)
 
-【报名截止：6.8】[经济贸易学院](https://jingmao.gdufs.edu.cn/info/1032/13631.htm)
+~~【报名截止：6.8】[经济贸易学院](https://jingmao.gdufs.edu.cn/info/1032/13631.htm)~~
 
 ## 暨南大学
 
@@ -1870,7 +1880,7 @@
 
 ## 北京量子信息科学研究院
 
-【报名截止：6.5 10:00】[北京量子信息科学研究院](https://mp.weixin.qq.com/s/dQbO1QC9V7dklGGoP9OgZA)
+~~【报名截止：6.5 10:00】[北京量子信息科学研究院](https://mp.weixin.qq.com/s/dQbO1QC9V7dklGGoP9OgZA)~~
 
 ##  首都医学科学创新中心
 
