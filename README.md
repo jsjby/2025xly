@@ -310,6 +310,16 @@
 
 【报名截止：7.5】[管理学院-“博思营”硕博连读项目（第二轮）](https://mp.weixin.qq.com/s/cTf-12BMinxj3Utl6ob6SA)
 
+【报名截止：7.5 17：00】[大数据学院](https://sds.fudan.edu.cn/3d/23/c17701a736547/page.htm)
+
+【报名截止：6.25 17：00】[未来信息创新学院](http://www.it.fudan.edu.cn/Data/View/4888)
+
+【报名截止：6.25 17：00】[放射医学研究所](https://irm.fudan.edu.cn/3d/45/c39078a736581/page.htm)
+
+【报名截止：6.25 17：00】[类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1188/8020.htm)
+
+【报名截止：6.25 17：00】[人类表型组研究院](https://hupi.fudan.edu.cn/info/1064/4456.htm)
+
 【报名截止：6.25 17：00】[文献信息中心](https://library.fudan.edu.cn/zyss/3c/8c/c42196a736396/page.htm)
 
 【报名截止：6.25 17：00】[上海数学与交叉学科研究院](https://www.simis.cn/zh_cn/2025-uni-camp/)
@@ -320,13 +330,23 @@
 
 【报名截止：6.25 17：00】[高分子科学系](https://polymer.fudan.edu.cn/3c/86/c31394a736390/page.htm)
 
+【报名截止：6.25 17：00】[智能材料与未来能源创新学院](https://icome.fudan.edu.cn/3c/ce/c49262a736462/page.htm)
+
+【报名截止：6.25 17：00】[生命科学学院、复杂性状的遗传调控全国重点实验室](https://life.fudan.edu.cn/3c/9c/c28139a736412/page.htm)
+
+【报名截止：6.24 17：00】[大气与海洋科学系](https://atmsci.fudan.edu.cn/3c/a3/c14829a736419/page.htm)
+
 【报名截止：6.24 10：00】[现代物理研究所](https://imp.fudan.edu.cn/3c/96/c48959a736406/page.htm)
+
+【报名截止：6.23 17：00】[数学科学学院、上海数学中心](https://scms.fudan.edu.cn/info/1047/9251.htm)
 
 【报名截止：6.22 17：00】[历史地理研究中心](https://yugong.fudan.edu.cn/info/1006/4255.htm)
 
 【报名截止：6月下旬】[管理学院2026级专业硕士项目-7月领创营](https://mp.weixin.qq.com/s/BcQ8gPRFejV7MOMtml_BUQ)
 
 【报名截止：6月下旬】[管理学院2026级专业硕士项目-7月智科营](https://mp.weixin.qq.com/s/BcQ8gPRFejV7MOMtml_BUQ)
+
+【报名截止：6.20 17：00】[化学系](https://chemistry.fudan.edu.cn/3c/d2/c45208a736466/page.htm)
 
 【报名截止：6.20】[化学系分子合成与识别科学中心](https://chemistry.fudan.edu.cn/00/a6/c45208a721062/page.htm)
 
@@ -382,6 +402,8 @@
 
 【报名截止：7.2】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/3061)
 
+【报名截止：6.30】[环境与资源学院](http://www.cers.zju.edu.cn/cercn/2025/0609/c58399a3060095/page.htm)
+
 【报名截止：6.25】[数据科学研究中心](http://cds.zju.edu.cn/a/zsxx/3664.html)
 
 【报名截止：6.25】[计算机学院](http://www.cs.zju.edu.cn/csen/2025/0528/c27011a3056015/page.htm)
@@ -392,7 +414,13 @@
 
 【报名截止：6.22】[地球科学学院](http://gs.zju.edu.cn/2025/0519/c35088a3052763/page.htm)
 
+【报名截止：6.22】[医学院儿科学院](https://www.zjuch.cn/news/default/id/12838/cid/363)
+
+【报名截止：6.22】[医学院第三临床医学院](https://www.srrsh.com/articleInfo/5889)
+
 【报名截止：6.22】[医学院护理系](http://www.cmm.zju.edu.cn/_upload/article/files/3f/65/aed67435473fbe804418dbd38b2d/2049188a-4d72-43b9-b5e1-3bc06a9fd0d8.pdf)
+
+【报名截止：6.20】[一带一路国际医学院、第四临床医学院](https://gjyxy.zju.edu.cn/2025/0609/c77105a3060030/page.htm)
 
 【报名截止：6.20】[动物科学学院](http://www.cas.zju.edu.cn/caschinese/2025/0605/c16703a3059000/page.htm)
 
@@ -544,6 +572,8 @@
 
 【报名截止：N/A】[网络空间安全学院-6月举办夏令营](https://cybersec.xjtu.edu.cn/info/1017/2053.htm)
 
+【报名截止：7.13】[未来技术学院](https://wljsxy.xjtu.edu.cn/info/1019/2771.htm)
+
 【报名截止：6.30】[新闻与新媒体学院-“跨越·融合·创新”学科交叉](https://xmtxy.xjtu.edu.cn/info/1054/10641.htm)
 
 【报名截止：6.30】[新闻与新媒体学院](https://xmtxy.xjtu.edu.cn/info/1054/10639.htm)
@@ -587,6 +617,8 @@
 【报名截止：6.17】[体育中心](https://tyzx.xjtu.edu.cn/info/1003/4184.htm)
 
 【报名截止：6.17】[生命科学与技术学院](https://slst.xjtu.edu.cn/info/1098/9490.htm)
+
+【报名截止：6.16 18：00】[电气工程学院](https://ee.xjtu.edu.cn/info/1383/14116.htm)
 
 【报名截止：6.16 9：00】[外国语学院](https://sfs.xjtu.edu.cn/info/1243/8102.htm)
 
