@@ -232,7 +232,7 @@
 
 【报名截止：7.4 8：00】[人文学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
-【报名截止：7.3】[董浩云智能制造与服务管理研究院（中美物流研究院）-更爱时间](https://mp.weixin.qq.com/s/NlIUW4jghSAy1qnAlOx15Q)
+【报名截止：7.3】[董浩云智能制造与服务管理研究院（中美物流研究院）-更改时间](https://mp.weixin.qq.com/s/NlIUW4jghSAy1qnAlOx15Q)
 
 【报名截止：7.3】[医学院松江研究院](https://mp.weixin.qq.com/s/whLCypno3Am3WL_bVVYsmA)
 
