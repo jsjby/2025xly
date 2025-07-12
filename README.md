@@ -1425,6 +1425,8 @@
 
 ## 厦门大学
 
+【报名截止：N/A】[人工智能研究院-八月底九月初](https://iai.xmu.edu.cn/info/1120/5335.htm)
+
 【报名截止：N/A】[生命科学学院](https://life.xmu.edu.cn/info/1094/31922.htm)
 
 【报名截止：N/A】[空间感知与计算实验室](https://asc.xmu.edu.cn/m)
@@ -1432,6 +1434,10 @@
 【报名截止：N/A】[信息学院（特色化示范性软件学院）-推免8月底9月初报名](https://informatics.xmu.edu.cn/info/1050/46670.htm)
 
 【报名截止：8.20】[新闻传播学院](https://mp.weixin.qq.com/s/yzy_UbPcAQGkF7FFv1MQbA)
+
+【报名截止：8.20】[台湾研究院](https://mp.weixin.qq.com/s/K--NyNwSy55FuuTMHlm2s
+
+【报名截止：8.14】[国际中文教育学院](https://oec.xmu.edu.cn/info/1051/88313.htm)
 
 【报名截止：8.11】[南洋研究院](https://nanyang.xmu.edu.cn/info/1022/34281.htm)
 
@@ -3461,6 +3467,12 @@
 
 ~~【报名截止：7.8】[建筑与城市规划学院](https://jzxy.bucea.edu.cn/yjsjx/zsgz/5aff66b6ce864e9da390b7a94c42cf32.htm)~~
 
+## 北京语言大学
+
+【报名截止：7.25】[外国语言文化学院区域国别学](https://mp.weixin.qq.com/s/KPCFUPxUtuGLq9_092snsA)
+
+【报名截止：7.16】[外国语言文化学院外国语言文学类](https://mp.weixin.qq.com/s/_pYcfMgmiV8pwj6ZRigXLQ)
+
 ## 北京体育大学
 
 > 【报名截止：7.6】[北京体育大学招生信息](https://mp.weixin.qq.com/s/XWOS5maA2uDZysPCoJsakQ)|[北京体育大学招生信息](https://zs.bsu.edu.cn/yjszsw/tjms/msxlybm/1672c7b98b4a451b85b9220b523f59fc.htm)
@@ -3944,6 +3956,8 @@
 ~~【报名截止：6.25 12：00】[应用经济学院](https://fae.ucass.edu.cn/info/1145/3793.htm)~~
 
 ## 云南大学
+
+【报名截止：7.17 14：00】[体育学院](http://www.tyxy.ynu.edu.cn/info/1012/1705.htm)
 
 ~~【报名截止：6.10】[国际关系研究院](https://mp.weixin.qq.com/s/Llonc-35633HwNwB322TtA)~~
 
@@ -4471,6 +4485,8 @@
 
 ## 安徽医科大学
 
+【报名截止：7.31】[口腔医学院](https://mp.weixin.qq.com/s/xZVeeGgmWyZcv5_lWvszpw)
+
 【报名截止：7.13】[第四临床医学院](https://mp.weixin.qq.com/s/9vePNkIBYfXaR4FpIwA8Mw)
 
 【报名截止：7.12】[第二临床医学院](https://mp.weixin.qq.com/s/LxLfC6FqkvWCXGG4nb-Nog)
@@ -4638,6 +4654,10 @@
 ## 海军军医大学
 
 > [海军军医大学招生信息](https://ao.smmu.edu.cn/2025/0630/c428a4919/page.htm)
+
+## 海军工程大学
+
+【报名截止：N/A】[核科学技术学院](https://mp.weixin.qq.com/s/aqEOBnE4tQjSzOc94ZphWA)
 
 ## 西北农林科技大学
 
@@ -4868,6 +4888,8 @@
 ## 大连海事大学
 
 > 【报名截止：9.21】[大连海事大学招生信息](https://yz.shmtu.edu.cn/2025/0708/c8927a245262/page.htm)
+
+【报名截止：7.16 11：00】[环境科学与工程学院](https://grs.dlmu.edu.cn/info/1139/23521.htm)
 
 【报名截止：7.14】[法学院](https://law.dlmu.edu.cn/info/1164/58551.htm)
 
