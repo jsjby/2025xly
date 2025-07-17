@@ -639,6 +639,8 @@
 
 ## 南京大学
 
+【报名截止：8.10 23：00】[法学院](https://law.nju.edu.cn/info/1051/17421.htm)
+
 【报名截止：8.10 18：00】[政府管理学院](https://public.nju.edu.cn/sy/tzgg/20250701/i325004.html)
 
 【报名截止：8.8】[工程管理学院](https://sme.nju.edu.cn/bb/c0/c2040a768960/page.htm)
@@ -935,6 +937,8 @@
 
 【报名截止：9.10】[环境学院](https://env.hit.edu.cn/2025/0709/c8344a373328/page.htm)
 
+【报名截止：9.10】[能源科学与工程学院](https://power.hit.edu.cn/2025/0717/c5714a373681/page.htm)
+
 【报名截止：9.10】[物理学院](https://physics.hit.edu.cn/2025/0711/c12332a373453/page.htm)
 
 【报名截止：9.10】[生命科学和医学学部](https://life.hit.edu.cn/2025/0709/c6157a373357/page.htm)
@@ -954,6 +958,8 @@
 【报名截止：9.8】[（深圳）马克思主义学院](http://mks.hitsz.edu.cn/info/1013/2411.htm)
 
 【报名截止：9.6】[（威海） 马克思主义学院-第二批](https://dipt.hitwh.edu.cn/2025/0707/c3440a202060/page.htm)
+
+【报名截止：9.5】[（深圳）集成电路学院](http://ic.hitsz.edu.cn/info/1032/2556.htm)
 
 【报名截止：9.5】[【威海）理学院数学系](https://ss.hitwh.edu.cn/2025/0708/c593a202153/page.htm)
 
@@ -1419,7 +1425,11 @@
 
 【报名截止：8.15】[化学学院](https://chem.nankai.edu.cn/2025/0706/c24089a574934/page.htm)
 
+【报名截止：8.10】[生命科学学院](https://sky.nankai.edu.cn/2025/0716/c7809a575475/page.htm)
+
 【报名截止：8.5 17：00】[金融学院](https://finance.nankai.edu.cn/2025/0715/c34620a575404/page.htm)
+
+【报名截止：7.20 12：00】[生命科学学院](https://sky.nankai.edu.cn/2025/0716/c7809a575476/page.htm)
 
 ~~【报名截止：7.12】[历史学院](https://history.nankai.edu.cn/2025/0626/c16064a574504/page.htm)~~
 
@@ -1448,6 +1458,8 @@
 【报名截止：N/A】[空间感知与计算实验室](https://asc.xmu.edu.cn/m)
 
 【报名截止：N/A】[信息学院（特色化示范性软件学院）-推免8月底9月初报名](https://informatics.xmu.edu.cn/info/1050/46670.htm)
+
+【报名截止：9.5 17：30】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11420.htm)
 
 【报名截止：9.2】[法学院](https://law.xmu.edu.cn/info/1123/74546.htm)
 
@@ -1885,6 +1897,8 @@
 
 【报名截止：8.14】[马克思主义学院](https://mkszyxy.sysu.edu.cn/syxxgg/xxgg/1419458.htm)
 
+【报名截止：8.10 12：00】[测绘科学与技术学院](https://sges.sysu.edu.cn/article/1558)
+
 【报名截止：8.10 12：00】[哲学系（珠海）](https://phil-zh.sysu.edu.cn/zh-hans/article/2155)
 
 【报名截止：8.8】[政治与公共事务管理学院](https://sog.sysu.edu.cn/article/3851)
@@ -2131,6 +2145,8 @@
 
 【报名截止：8.30】[教育学部佛年班](https://mp.weixin.qq.com/s/Je6lVhZNUh60jM3TXKb9hg)
 
+【报名截止：7.25】[水生生物与水域生态学](hhttps://mp.weixin.qq.com/s/FIRNgNGYrMFCrNYCEDHhCw)
+
 ~~【报名截止：7.10】[体育与健康学院](https://tyxx.ecnu.edu.cn/c6/1e/c37979a706078/page.htm)~~
 
 ~~【报名截止：7.8】[电子信息类别（人工智能领域）](https://yjsy.ecnu.edu.cn/bc/d4/c42082a703700/page.htm)~~
@@ -2196,6 +2212,8 @@
 ~~【报名截止：7.6】[电子与信息学院](https://www2.scut.edu.cn/ee/2025/0620/c35986a594762/page.htm)~~
 
 ## 重庆大学
+
+> 【报名截止：9.30 18：00】[重庆大学招生信息](https://yz.cqu.edu.cn/news/2025-07/2357.html)
 
 【报名截止：N/A】[医学院-举办时间7.12-13](https://mp.weixin.qq.com/s/dy4TjnAB9MED2TvpDPbb9Q)
 
@@ -2435,6 +2453,8 @@
 
 【报名截止：8.10 18:00】[信息与电气工程学院](https://ciee.cau.edu.cn/art/2025/7/8/art_50390_1075048.html)
 
+【报名截止：8.10 17:00】[营养与健康系](https://dnh.cau.edu.cn/art/2025/7/17/art_36934_1075956.html)
+
 【报名截止：8.10 17:00】[土地科学与技术学院](https://clst.cau.edu.cn/art/2025/7/8/art_31131_1075061.html)
 
 【报名截止：8.10 17:00】[动物科学技术学院](https://cast1.cau.edu.cn/art/2025/7/9/art_44406_1075251.html)
@@ -2663,7 +2683,7 @@
 
 【报名截止：8.8】[上海微系统所](https://mp.weixin.qq.com/s/x8H1ksFijB-ONR5nhTJ7iQ)
 
-【报名截止：8.1】[上海药物所](https://simm.cas.cn/web/yjsjy/zsgz/xdly/202504/t20250424_7611069.html)
+【报名截止：7.20 17：00】[上海药物所-提前报名时间](https://simm.cas.cn/web/yjsjy/zsgz/xdly/202504/t20250424_7611069.html)
 
 【报名截止：7.17】[空天信息创新研究院](https://aircas.ac.cn/kjrh/rhtzgg/202506/t20250620_7872575.html)
 
@@ -3257,6 +3277,8 @@
 
 > [南京理工大学招生信息](https://mp.weixin.qq.com/s/87gTsR0HS4FITJXd3fmHng)|[南京理工大学活动安排](https://gs.njust.edu.cn/zsw/61/84/c4587a352644/page.htm)
 
+【报名截止：7.30】[自动化学院](https://mp.weixin.qq.com/s/b_zNNZTeip-jJsIapzK8jA)
+
 【报名截止：7.25】[电子工程与光电技术学院](https://mp.weixin.qq.com/s/jY_jTDszsuPBlJcqzCAkQw)
 
 【报名截止：7.24】[微电子学院（集成电路学院）](https://mp.weixin.qq.com/s/sQD5p5uAcbXiqDz1xvlTmA)
@@ -3264,6 +3286,8 @@
 【报名截止：7.23】[新能源学院](https://mp.weixin.qq.com/s/KSE03RrdwINkmNuEwJ0npQ)
 
 【报名截止：7.23 22：00】[数学与统计学院](https://mp.weixin.qq.com/s/tXjU_HrA47Cg9fdSxJnEgw)
+
+【报名截止：7.21】[材料科学与工程学院](https://mp.weixin.qq.com/s/eXeVciCIyw2BLS-egOBaOw)
 
 【报名截止：7.20】[经济管理学院](https://mp.weixin.qq.com/s/emTr1FFA1JbKfRQGReiekQ)
 
@@ -3737,6 +3761,8 @@
 
 【报名截止：8.23】[工商管理学院](https://gsxy.zuel.edu.cn/2025/0716/c4131a401771/page.htm)
 
+【报名截止：8.18 17：00】[经济学院](https://jjxy.zuel.edu.cn/2025/0717/c2744a401793/page.htm)
+
 【报名截止：8.17 17:00】[知识产权学院](https://iprcn.zuel.edu.cn/zgzscqyjw-zgzscqyjw_tzgg/zgzscqyjwcn_cont_news/details-41007.html)
 
 【报名截止：8.10 17：00】[会计学院](https://kjxy.zuel.edu.cn/2025/0716/c15661a401762/page.htm)
@@ -3754,6 +3780,8 @@
 【报名截止：8.15】[民族学与社会学学院](https://mp.weixin.qq.com/s/GoABVTilfIa5egUvkeCKTA)
 
 【报名截止：8.15】[马克思主义学院](https://mp.weixin.qq.com/s/JyAnaJehbX4iEd-_S262VQ)
+
+【报名截止：8.15 12：00】[体育学院](https://mp.weixin.qq.com/s/ePgqtTtjwUJRwW0fUGZo1A)
 
 【报名截止：8.14 17：00】[经济学院](https://eco.muc.edu.cn/info/1085/6937.htm)
 
@@ -4039,6 +4067,8 @@
 
 > [南京医科大学招生信息](https://yjszs.njmu.edu.cn/2025/0620/c10193a287601/page.htm)
 
+【报名截止：7.27】[姑苏学院](https://gsxy.njmu.edu.cn/15909/list.htm)
+
 ~~【报名截止：7.14 12：00】[第一临床医学院](https://dylc.njmu.edu.cn/2025/0707/c5649a288439/page.htm)~~
 
 ~~【报名截止：7.10】[无锡医学中心](http://www.wuxiph.com/Info/GongGaoLan/29876.html)~~
@@ -4292,6 +4322,8 @@
 ~~【报名截止：6.15】[经济学院](https://ec.jnu.edu.cn/2025/0526/c24919a836927/page.htm)~~
 
 ## 上海大学
+
+【报名截止：7.31】[历史学系](https://mp.weixin.qq.com/s/0YYSujnjKkdldFc0ywBPCw)
 
 【报名截止：7.16】[理学院数学系](https://mp.weixin.qq.com/s/JX5h-Ji6LXPa4HpyUF3_bw)
 
