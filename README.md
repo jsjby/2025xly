@@ -1441,6 +1441,8 @@
 
 【报名截止：8.20 8：00】[经济学院](https://economics.nankai.edu.cn/2025/0707/c16001a574961/page.htm)
 
+【报名截止：8.17】[药学院](https://pharmacy.nankai.edu.cn/info/1035/3251.htm)
+
 【报名截止：8.15】[电子信息与光学工程学院](https://ceo.nankai.edu.cn/info/1099/4393.htm)
 
 【报名截止：8.15】[化学学院](https://chem.nankai.edu.cn/2025/0706/c24089a574934/page.htm)
@@ -1484,6 +1486,8 @@
 【报名截止：9.5 17：30】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11420.htm)
 
 【报名截止：9.2】[法学院](https://law.xmu.edu.cn/info/1123/74546.htm)
+
+【报名截止：9.1】[海洋与地球学院](https://coe.xmu.edu.cn/info/1641/214231.htm)
 
 【报名截止：8.30】[柔性电子（未来技术）研究院](https://ife.xmu.edu.cn/info/1341/5962.htm)
 
@@ -1935,6 +1939,10 @@
 
 ## 中山大学
 
+【报名截止：N/A】[岭南学院](https://lingnan.sysu.edu.cn/lnpm/article/540)
+
+【报名截止：8.17】[土木工程学院](https://civil.sysu.edu.cn/article/2798)
+
 【报名截止：8.16】[计算机学院](https://cse.sysu.edu.cn/article/3279)
 
 【报名截止：8.14】[马克思主义学院](https://mkszyxy.sysu.edu.cn/syxxgg/xxgg/1419458.htm)
@@ -1948,6 +1956,8 @@
 【报名截止：8.8】[政治与公共事务管理学院](https://sog.sysu.edu.cn/article/3851)
 
 【报名截止：8.8】[新闻传播学院](https://sjc.sysu.edu.cn/article/1436)
+
+【报名截止：8.6】[微电子科学与技术学院](https://mst.sysu.edu.cn/article/1246)
 
 【报名截止：7.31】[海洋科学学院](https://marine.sysu.edu.cn/article/10486)
 
@@ -2505,6 +2515,10 @@
 
 【报名截止：8.10 18:00】[信息与电气工程学院](https://ciee.cau.edu.cn/art/2025/7/8/art_50390_1075048.html)
 
+【报名截止：8.10 17:00】[资源与环境学院](https://zihuan.cau.edu.cn/art/2025/7/22/art_49176_1076449.html)
+
+【报名截止：8.10 17:00】[工学院](https://coe.cau.edu.cn/art/2025/7/22/art_39155_1076491.html)
+
 【报名截止：8.10 17:00】[营养与健康系](https://dnh.cau.edu.cn/art/2025/7/17/art_36934_1075956.html)
 
 【报名截止：8.10 17:00】[土地科学与技术学院](https://clst.cau.edu.cn/art/2025/7/8/art_31131_1075061.html)
@@ -2746,6 +2760,10 @@
 【报名截止：8.15】[成都生物研究所](https://cib.cas.cn/yjsjy/zspy/sszs/202506/t20250616_7869755.html)
 
 【报名截止：8.15】[化学研究所](https://ic.cas.cn/jyc/zsxx/202507/t20250721_7893264.html)
+
+【报名截止：8.11】[过程工程研究所第二批](https://edu.ipe.ac.cn/zsxx/202507/t20250722_633490.html)
+
+【报名截止：8.10】[西安光机所](https://mp.weixin.qq.com/s/AIHoM7mW6dt3LHh3l6rcLg?click_id=6)
 
 【报名截止：8.8】[上海微系统所](https://mp.weixin.qq.com/s/x8H1ksFijB-ONR5nhTJ7iQ)
 
@@ -3145,6 +3163,8 @@
 
 【报名截止：9.24】[人工智能学院](https://sai.xidian.edu.cn/info/1106/12942.htm)
 
+【报名截止：9.20 00：00】[生命科学技术学院](https://life.xidian.edu.cn/info/1048/16091.htm)
+
 【报名截止：9.20】[经济与管理学院](https://sem.xidian.edu.cn/info/1536/12171.htm)
 
 【报名截止：9.20】[信息力学与感知工程学院](https://imse.xidian.edu.cn/info/1024/3401.htm)
@@ -3196,6 +3216,8 @@
 ## 北京科技大学
 
 > [北京科技大学招生信息](https://yz.tsinghua.edu.cn/info/1024/3009.htm)
+
+【报名截止：8.15】[机械工程学院](https://me.ustb.edu.cn/tongzhigonggao/2025-07-21/2564.html)
 
 ~~【报名截止：7.20 23:59】[未来城市学院](https://sfc.ustb.edu.cn/xwdt/tzgg/735a1493a7f24840bb2277971e398474.htm)~~
 
@@ -3542,6 +3564,8 @@
 > [苏州大学招生信息](https://yjs.suda.edu.cn/3d/40/c8386a671040/page.htm)
 
 【报名截止：N/A】[商学院](https://sxy.suda.edu.cn/3e/ef/c16518a671471/page.htm)
+
+【报名截止：9.21】[纺织与服装工程学院](https://textile.suda.edu.cn/3e/fe/c6584a671486/page.htm)
 
 【报名截止：9.21】[金螳螂建筑学院](https://mp.weixin.qq.com/s/lfDkz2OkmDWreoa_Aw51FQ)
 
@@ -4985,6 +5009,8 @@
 
 【报名截止：7.29】[美术学院](https://msxy.henu.edu.cn/info/1011/11947.htm)
 
+【报名截止：7.28】[地理科学与工程学部](https://cep.henu.edu.cn/info/1022/14881.htm)
+
 ~~【报名截止：7.20】[外语学院（高级翻译学院）](https://mp.weixin.qq.com/s/UdQwL1xP9C8tYZS5uc1PAg)~~
 
 ~~【报名截止：7.15】[教育学部](https://jykx.henu.edu.cn/info/1059/23929.htm)~~
@@ -5255,6 +5281,8 @@
 
 ## 上海中医药大学
 
+【报名截止：7.31】[市中医临床医学院](https://mp.weixin.qq.com/s/YjnqtTmI6kKIAYiTFKXTGA)
+
 【报名截止：7.20】[光华临床医学院](https://www.ghhospital.com.cn/tzggMK/info_87.aspx?itemid=899)
 
 ## 信息工程大学
@@ -5274,6 +5302,10 @@
 ## 昆明医科大学
 
 > 【报名截止：7.21】[昆明医科大学招生信息](https://gs.caas.cn/zsgz/sszs/d8e2ef1bd2c74a8fbc58eefb676a029b.htm)
+
+## 温州医科大学
+
+【报名截止：7.27】[第二临床医学院](https://www.wzhealth.com/news/show-19202.html)
 
 ## 北京中关村学院
 
@@ -5362,6 +5394,8 @@
 【报名截止：9.18 15：00】[作物科学研究所](http://icscaas.com.cn/xwdt/tzgg/580a0a55a5b140f29be2c4c6a9753b9a.htm)
 
 【报名截止：8.31】[植物保护研究所](http://www.ippcaas.cn/zszp/8e6182c092c941b8a7c773fa592b9920.htm)
+
+【报名截止：7.28】[资源信息研究所](https://ifrit.caf.ac.cn/info/1041/3009.htm)
 
 ~~【报名截止：7.18】[农业农村部成都沼气科学研究所](https://mp.weixin.qq.com/s/dldqXKumg4dMyv6cAo4aGA)~~
 
