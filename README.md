@@ -377,7 +377,7 @@
 
 【报名截止：8.7】[医学院附属同仁医院](https://www.shtrhospital.com/graduate/info_189.aspx?itemid=4776)
 
-【报名截止：7.27】[医学院附属上海儿童医学中心](https://mp.weixin.qq.com/s/Pkt9WDBYSRpASFZNPsdXBg)
+~~【报名截止：7.27】[医学院附属上海儿童医学中心](https://mp.weixin.qq.com/s/Pkt9WDBYSRpASFZNPsdXBg)~~
 
 ~~【报名截止：7.21】[生命科学技术学院生物学国家高层次人才培养中心](https://life.sjtu.edu.cn/Data/View/8501)~~
 
@@ -722,6 +722,8 @@
 【报名截止：N/A】[良渚实验室-夏令营](https://mp.weixin.qq.com/s/7TVxhRpdx0_vjOiGZBzs8g)
 
 【报名截止：N/A】[医学院](http://www.cmm.zju.edu.cn/2025/0529/c38716a3056627/pagem.htm)
+
+【报名截止：9.8】[材料学院](https://mse.zju.edu.cn/2025/0727/c51673a3071731/page.htm)
 
 ~~【报名截止：7.2】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/3061)~~
 
@@ -1597,6 +1599,8 @@
 
 ## 武汉大学
 
+【报名截止：N/A】[机器人学院](https://mp.weixin.qq.com/s/47-48A2FNH0cNRLT7dvXvA)
+
 【报名截止：N/A】[循证与转化医学中心](https://cebtm.znhospital.com/detail/820)
 
 ~~【报名截止：7.7】[第一临床学院](https://www.rmhospital.com/article/id/14428.html)~~
@@ -1853,11 +1857,11 @@
 
 【报名截止：7.31】[计算机科学与技术学院-国际暑期学校](https://cse.csu.edu.cn/info/1040/10563.htm)
 
-【报名截止：7.27】[自动化学院](https://soa.csu.edu.cn/info/1032/9007.htm)
+~~【报名截止：7.27】[自动化学院](https://soa.csu.edu.cn/info/1032/9007.htm)~~
 
-【报名截止：7.25】[电子信息学院](https://ei.csu.edu.cn/info/1085/1924.htm)
+~~【报名截止：7.25】[电子信息学院](https://ei.csu.edu.cn/info/1085/1924.htm)~~
 
-【报名截止：7.25】[物理与天文学院](https://spa.sysu.edu.cn/zh-hans/article/2700)
+~~【报名截止：7.25】[物理与天文学院](https://spa.sysu.edu.cn/zh-hans/article/2700)~~
 
 ~~【报名截止：7.19】[湘雅医院](https://www.xiangya.com.cn/list/2336/71748.html#10006-weixin-1-52626-6b3bffd01fdde4900130bc5a2751b6d1)~~
 
@@ -1979,9 +1983,13 @@
 
 【报名截止：8.16】[计算机学院](https://cse.sysu.edu.cn/article/3279)
 
+【报名截止：8.15 22：00】[环境科学与工程学院](https://sese.sysu.edu.cn/article/6940)
+
 【报名截止：8.14】[马克思主义学院](https://mkszyxy.sysu.edu.cn/syxxgg/xxgg/1419458.htm)
 
 【报名截止：8.11】[中山医学院](https://zssom.sysu.edu.cn/article/11570)
+
+【报名截止：8.11】[医学院](https://szmed.sysu.edu.cn/zh-hans/article/3428)
 
 【报名截止：8.10】[海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1241)
 
@@ -2009,7 +2017,7 @@
 
 【报名截止：7.28 8：00】[中国语言文学系](https://mp.weixin.qq.com/s/tnBh3J2hxstX27hk5eIEWA)
 
-【报名截止：7.27 17：00】[肿瘤防治中心](https://www.sysucc.org.cn/node/10418)
+~~【报名截止：7.27 17：00】[肿瘤防治中心](https://www.sysucc.org.cn/node/10418)~~
 
 ~~【报名截止：7.21 12：00】[附属第七医院](https://www.sysush.com/content/1e33ca76-de82-4c6e-880b-97f1b1213f27)~~
 
@@ -2253,7 +2261,7 @@
 
 【报名截止：报名时间8月下旬】[数据科学与工程学院-](https://dase.ecnu.edu.cn/da/bc/c41465a711356/page.htm)
 
-【报名截止：7.25】[水生生物与水域生态学](hhttps://mp.weixin.qq.com/s/FIRNgNGYrMFCrNYCEDHhCw)
+~~【报名截止：7.25】[水生生物与水域生态学](hhttps://mp.weixin.qq.com/s/FIRNgNGYrMFCrNYCEDHhCw)~~
 
 ~~【报名截止：7.10】[体育与健康学院](https://tyxx.ecnu.edu.cn/c6/1e/c37979a706078/page.htm)~~
 
@@ -2356,6 +2364,8 @@
 > [湖南大学招生信息-7月25日开始报名](https://gra.hnu.edu.cn/info/1075/10189.htmtm)
 
 【报名截止：N/A】[信息科学与工程学院-7月25日开始报名](https://csee.hnu.edu.cn/info/1036/13739.htm)
+
+【报名截止：N/A】[网络空间安全学院-7月26日开始报名](https://cst.hnu.edu.cn/info/1053/1172.htm)
 
 【报名截止：N/A】[人工智能与机器人学院](http://robotics.hnu.edu.cn/info/1035/3109.htm)
 
@@ -2607,7 +2617,7 @@
 
 【报名截止：7.31】[经济学院](https://www.econ.sdu.edu.cn/info/1139/12902.htm)
 
-【报名截止：7.25】[材料科学与工程学院](hhttps://sduyjs.sdu.edu.cn/yjszs/plugins/zs/xlyxsd/entrance#/xlyksdSummerCampEntranceDetail?a=1750685621612001632&b=1743468572197001631)
+~~【报名截止：7.25】[材料科学与工程学院](hhttps://sduyjs.sdu.edu.cn/yjszs/plugins/zs/xlyxsd/entrance#/xlyksdSummerCampEntranceDetail?a=1750685621612001632&b=1743468572197001631)~~
 
 ~~【报名截止：7.7】[计算机科学与技术学院/人工智能学院](https://www.cs.sdu.edu.cn/info/1068/6585.htm)~~
 
@@ -3427,6 +3437,8 @@
 
 ## 南京邮电大学
 
+> [南京邮电大学招生信息](https://yzb.njupt.edu.cn/2025/0725/c7797a287494/page.htm)
+
 【报名截止：7.30】[计算机学院、软件学院、网络空间安全学院](https://cs.njupt.edu.cn/2025/0623/c16083a286255/page.htm)
 
 ~~【报名截止：7.19 17：00】[物联网学院](https://ciot.njupt.edu.cn/2025/0712/c10653a287235/page.htm)~~
@@ -3453,7 +3465,7 @@
 
 【报名截止：7.30】[自动化学院](https://mp.weixin.qq.com/s/b_zNNZTeip-jJsIapzK8jA)
 
-【报名截止：7.25】[电子工程与光电技术学院](https://mp.weixin.qq.com/s/jY_jTDszsuPBlJcqzCAkQw)
+~~【报名截止：7.25】[电子工程与光电技术学院](https://mp.weixin.qq.com/s/jY_jTDszsuPBlJcqzCAkQw)~~
 
 ~~【报名截止：7.24】[微电子学院（集成电路学院）](https://mp.weixin.qq.com/s/sQD5p5uAcbXiqDz1xvlTmA)~~
 
@@ -3777,9 +3789,9 @@
 
 【报名截止：7.31】[国际中文教育专业](https://mp.weixin.qq.com/s/ghFILyyz4pccgMGxBzWn8g)
 
-【报名截止：7.27】[信息科学学院暨语言智能研究院](https://mp.weixin.qq.com/s/KPCFUPxUtuGLq9_092snsA)
+~~【报名截止：7.27】[信息科学学院暨语言智能研究院](https://mp.weixin.qq.com/s/KPCFUPxUtuGLq9_092snsA)~~
 
-【报名截止：7.25】[外国语言文化学院区域国别学](https://mp.weixin.qq.com/s/KPCFUPxUtuGLq9_092snsA)
+~~【报名截止：7.25】[外国语言文化学院区域国别学](https://mp.weixin.qq.com/s/KPCFUPxUtuGLq9_092snsA)~~
 
 ~~【报名截止：7.23】[英语和高级翻译学院翻译专业硕士](https://mp.weixin.qq.com/s/cXReGOydB8Kzqew96uSN6A)~~
 
@@ -3829,7 +3841,19 @@
 
 ## 中国石油大学
 
+> [中国石油大学(北京）招生信息](https://grs.cup.edu.cn/zssstzgg/91256.jhtml)
+
+【报名截止：9.25】[（北京）外国语学院](https://www.cup.edu.cn/dfl/tzgg3/ec038c874d9e451fb8bcb04f585ec313.htm)
+
+【报名截止：9.24 17：00】[（北京）理学院](https://cup.edu.cn/science//yjsjy/yjsjx/34d08ce0fddb47dbbcc55b6575087807.htm)
+
+【报名截止：9.20】[（北京）马克思主义学院](https://www.cup.edu.cn/rwsk/talent/admission/11ca6c3b0011475d89fc2928494a7bca.htm)
+
 【报名截止：9.19 8：00】[（北京）经济管理学院](https://www.cup.edu.cn/sba/tzgg/9b33816dfac742949059e3ddf53c258f.htm)
+
+【报名截止：9.7】[（北京）石油工程学院](https://www.cup.edu.cn/oil/zsjy/zsxx/c3563fff9e8842f394ea4f7aa70e3e80.htm)
+
+【报名截止：9.5】[（北京）地球科学学院](https://www.cup.edu.cn/geosci/tzgg/c67559f4185741c5a84f9fa428f25cfc.htm)
 
 【报名截止：8.20】[（北京）地球物理学院](https://www.cup.edu.cn/geophysics/xytzgg/d982b340c8064c7b958e8223112f9f6c.htm)
 
@@ -3974,6 +3998,8 @@
 【报名截止：8.17 17:00】[知识产权学院](https://iprcn.zuel.edu.cn/zgzscqyjw-zgzscqyjw_tzgg/zgzscqyjwcn_cont_news/details-41007.html)
 
 【报名截止：8.15 12：00】[新闻学院](https://xwcb.zuel.edu.cn/2025/0724/c6951a402963/pagem.htm)
+
+【报名截止：8.15 10：00】[信息工程学院](https://xagx.zuel.edu.cn/2025/0726/c3402a403021/page.htm)
 
 【报名截止：8.10 17：00】[会计学院](https://kjxy.zuel.edu.cn/2025/0716/c15661a401762/page.htm)
 
@@ -4295,13 +4321,17 @@
 
 > [南京医科大学招生信息](https://yjszs.njmu.edu.cn/2025/0620/c10193a287601/page.htm)
 
-【报名截止：7.27】[姑苏学院](https://gsxy.njmu.edu.cn/15909/list.htm)
+~~【报名截止：7.27】[姑苏学院](https://gsxy.njmu.edu.cn/15909/list.htm)~~
 
 ~~【报名截止：7.14 12：00】[第一临床医学院](https://dylc.njmu.edu.cn/2025/0707/c5649a288439/page.htm)~~
 
 ~~【报名截止：7.10】[无锡医学中心](http://www.wuxiph.com/Info/GongGaoLan/29876.html)~~
 
 ~~【报名截止：6.27】[护理学院](https://hlxy.njmu.edu.cn/2025/0620/c11359a287573/page.htm)~~
+
+## 中国人民解放军空军工程大学
+
+【报名截止：7.30 18：00】[空军工程大学](https://mp.weixin.qq.com/s/nh9hrXqMRUTjzifjhexq7g)
 
 ## 中国人民解放军海军工程大学
 
@@ -4335,7 +4365,7 @@
 
 ## 中国社会科学院大学
 
-【报名截止：7.20】[外国语学院](https://sfl.ucass.edu.cn/info/1132/1812.htm)
+~~【报名截止：7.20】[外国语学院](https://sfl.ucass.edu.cn/info/1132/1812.htm)~~
 
 ~~【报名截止：6.25 12：00】[应用经济学院](https://fae.ucass.edu.cn/info/1145/3793.htm)~~
 
@@ -4881,7 +4911,7 @@
 
 【报名截止：7.31】[口腔医学院](https://mp.weixin.qq.com/s/xZVeeGgmWyZcv5_lWvszpw)
 
-【报名截止：7.20】[药学科学学院](https://mp.weixin.qq.com/s/NSQ6MVARThm1s58nJH5b3A)
+~~【报名截止：7.20】[药学科学学院](https://mp.weixin.qq.com/s/NSQ6MVARThm1s58nJH5b3A)~~
 
 ~~【报名截止：7.18】[生命科学学院](https://mp.weixin.qq.com/s/1wTCgiHImdzffKDCfmlOUA)~~
 
@@ -5295,7 +5325,7 @@
 
 >[首都医科大学招生信息](https://yjsh.ccmu.edu.cn/zsgz/sszs/ad04d4378d7a4d258dbc5592f95dcdb9.htm)
 
-【报名截止：7.27】[三博脑科医院](https://yjsh.ccmu.edu.cn/docs//2025-07/43afea2db9a14d598627ad04b03c75be.pdf)
+~~【报名截止：7.27】[三博脑科医院](https://yjsh.ccmu.edu.cn/docs//2025-07/43afea2db9a14d598627ad04b03c75be.pdf)~~
 
 ~~【报名截止：7.21】[附属北京中医医院](https://www.bjzhongyi.com/zyb_yjsjy_detail/14983.html)~~
 
@@ -5347,7 +5377,7 @@
 
 【报名截止：N/A】[临床与基础医学院](https://yz.sdfmu.edu.cn/info/1017/3275.htm)
 
-【报名截止：7.27】[附属省立医院(山东省立医院)](https://yz.sdfmu.edu.cn/info/1017/3275.htm)
+~~【报名截止：7.27】[附属省立医院(山东省立医院)](https://yz.sdfmu.edu.cn/info/1017/3275.htm)~~
 
 ~~【报名截止：7.18】[生物医学科学学院](https://yz.sdfmu.edu.cn/info/1017/3275.htm)~~
 
@@ -5497,7 +5527,7 @@
 
 ## 中国电力科学研究院
 
-【报名截止：7.24】[中国电力科学研究院](https://mp.weixin.qq.com/s/TaZ-NenpWnK12b_bWdW6HA)
+~~【报名截止：7.24】[中国电力科学研究院](https://mp.weixin.qq.com/s/TaZ-NenpWnK12b_bWdW6HA)~~
 
 ## 中国疾病预防控制中心
 
@@ -5531,7 +5561,7 @@
 
 【报名截止：8.31】[植物保护研究所](http://www.ippcaas.cn/zszp/8e6182c092c941b8a7c773fa592b9920.htm)
 
-【报名截止：7.28】[资源信息研究所](https://ifrit.caf.ac.cn/info/1041/3009.htm)
+~~【报名截止：7.28】[资源信息研究所](https://ifrit.caf.ac.cn/info/1041/3009.htm)~~
 
 ~~【报名截止：7.18】[农业农村部成都沼气科学研究所](https://mp.weixin.qq.com/s/dldqXKumg4dMyv6cAo4aGA)~~
 
