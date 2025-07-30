@@ -735,11 +735,19 @@
 
 【报名截止：9.10】[心理系](http://www.psych.zju.edu.cn/2025/0728/c27648a3071863/page.htm)
 
+【报名截止：9.10 17：00】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/3104)
+
 【报名截止：9.10 17：00】[国际联合商学院](https://zibs.zju.edu.cn/2025/0728/c81951a3071866/page.htm)
 
 【报名截止：9.10 12：00】[工程师学院](https://pi.zju.edu.cn/2025/0727/c67820a3071730/page.htm)
 
+【报名截止：9.10 12：00】[台州研究院](https://mp.weixin.qq.com/s/5MOfvP8urYMG1FkX6GR-qg)
+
 【报名截止：9.9 17：00】[海洋学院](http://oc.zju.edu.cn/2025/0728/c52420a3071991/page.htm)
+
+【报名截止：9.9 12：00】[软件学院](http://www.cst.zju.edu.cn/2025/0730/c32178a3072203/page.htm)
+
+【报名截止：9.8】[化学工程与生物工程学院](http://che.zju.edu.cn/checn/2025/0729/c15798a3072190/page.htm)
 
 【报名截止：9.8】[经济学院](http://www.cec.zju.edu.cn/2025/0729/c36131a3072033/page.htm)
 
@@ -751,11 +759,17 @@
 
 【报名截止：9.8】[材料学院](https://mse.zju.edu.cn/2025/0727/c51673a3071731/page.htm)
 
+【报名截止：9.8】[社会学系](http://sociology.zju.edu.cn/index.php/News/details.html?id=866&tid=17&sid=2)
+
 【报名截止：9.8 12：00】[计算机科学与技术学院](http://www.cs.zju.edu.cn/csen/2025/0728/c27006a3071976/page.htm)
+
+【报名截止：9.7 22：00】[管理学院专业会计硕士](http://mba.zju.edu.cn/mpacc/admissions_det/3/5692)
 
 【报名截止：9.7】[光电学院](http://opt.zju.edu.cn/2025/0728/c72768a3071870/page.htm)
 
 【报名截止：9.5 22：00】[建筑工程学院](http://www.ccea.zju.edu.cn/2025/0727/c18473a3071726/page.htm)
+
+【报名截止：9.3 22：00】[生命科学学院](http://www.cls.zju.edu.cn/clscn/2025/0730/c79319a3072286/page.htm)
 
 ~~【报名截止：7.2】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/3061)~~
 
@@ -2019,6 +2033,8 @@
 
 【报名截止：8.25】[农业与生物技术学院](https://ab.sysu.edu.cn/zh-hans/article/1268)
 
+【报名截止：8.24】[心理学系](https://mp.weixin.qq.com/s/bxTLLuACbch_Id6OjezBEA)
+
 【报名截止：8.17】[土木工程学院](https://civil.sysu.edu.cn/article/2798)
 
 【报名截止：8.16】[计算机学院](https://cse.sysu.edu.cn/article/3279)
@@ -2779,6 +2795,8 @@
 
 【报名截止：9.21】[船舶工程学院](https://naoe.dlut.edu.cn/info/1711/16771.htm)
 
+【报名截止：9.17】[物理学院](https://physics.dlut.edu.cn/info/1055/13894.htm)
+
 【报名截止：8.29】[公共管理学院](https://spap.dlut.edu.cn/info/1124/8795.htm)
 
 ~~【报名截止：7.20】[物理学院](http://physics.dlut.edu.cn/info/1055/13764.htm)~~
@@ -3307,6 +3325,8 @@
 
 【报名截止：9.19】[电子工程学院](https://see.xidian.edu.cn/html/news/12493.html)
 
+【报名截止：9.19】[空间科学与技术学院](https://see.xidian.edu.cn/html/news/12493.html)
+
 【报名截止：9.19 12：00】[广研院-卓越工程师学院粤港澳大湾区基地](https://gzyjy.xidian.edu.cn/info/1009/19512.htm)
 
 【报名截止：9.19 12：00】[杭研院-卓越工程师学院长三角基地](https://hz.xidian.edu.cn/info/1009/20144.htm)
@@ -3390,6 +3410,8 @@
 【报名截止：8.31】[计算机科学与工程系](https://cse.sustech.edu.cn/cn/news/view/id/1111)
 
 【报名截止：8.28】[机械与能源工程系](https://mp.weixin.qq.com/s/NIDx-ZbQ-hTIogSZorAK_w)
+
+【报名截止：8.26】[材料科学与工程系](https://mse.sustech.edu.cn/zh/News/Details/947)
 
 【报名截止：8.24】[电子与电气工程系](https://eee.sustech.edu.cn/news_detail.aspx?id=2144&cid=91)
 
@@ -3922,6 +3944,8 @@
 【报名截止：8.17 17：00】[非常规油气科学技术研究院](https://www.cup.edu.cn/fcg/tzgg/12544823e93a4f958d9c542017f0e86c.htm)
 
 【报名截止：8.7】[机械与储运工程学院](https://www.cup.edu.cn/mte/sqyr/yjspy/zsdt/35923cb7446a45fdbd6c23747083c24f.htm)
+
+【报名截止：8.6 12：00】[安全与海洋工程学院](https://www.cup.edu.cn/safety/tzgg/bee7d540ccfa4a9fbaff17723afe39ad.htm)
 
 【报名截止：8.1 17：00】[（北京）化学工程与环境学院](https://www.cup.edu.cn/chem/yjsjxypy/zsxx/2918d9b44569433d9c039f599910758c.htm)
 
