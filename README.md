@@ -377,6 +377,8 @@
 
 【报名截止：9.16】[宁波东方理工大学](https://mp.weixin.qq.com/s/TwQ0AXF7lS2_tFGP_JVqUg)
 
+【报名截止：9.8】[材料科学与工程学院](https://smse.sjtu.edu.cn/post/detail/5126)
+
 【报名截止：8.31】[数学科学学院](https://math.sjtu.edu.cn/Default/gonggaoshow/tag/MDAwMDAwMDAwMLGIfpWFpKF2)
 
 【报名截止：8.31】[生命科学技术学院](https://life.sjtu.edu.cn/Data/View/8513)
@@ -668,6 +670,8 @@
 > 【报名截止：9.15】[南京大学招生信息](https://yzb.nju.edu.cn/cb/be/c47863a773054/page.htm)
 
 【报名截止：N/A】[电子科学与工程学院](https://ese.nju.edu.cn/d9/36/c22673a776502/page.htm)
+
+【报名截止：9.15】[环境与健康研究院](https://ieh.nju.edu.cn/info/1038/2691.htm)
 
 【报名截止：9.15 17：00】[外国语学院](https://sfs.nju.edu.cn//xwgg/gltz/20250801/i332887.html)
 
@@ -1597,6 +1601,8 @@
 
 【报名截止：9.7】[卓越工程师学院](https://yzxt.nankai.edu.cn/intern/frontend/web/pg-net-sign-up/index?id=27)
 
+【报名截止：9.7】[人工智能研究院](https://iai.xmu.edu.cn/info/1120/5355.htm)
+
 【报名截止：9.5】[日本研究院](http://www.riyan.nankai.edu.cn/2025/0811/c12889a576105/page.htm)
 
 【报名截止：9.2】[软件学院](https://cs.nankai.edu.cn/info/1076/3424.htm)
@@ -1606,6 +1612,8 @@
 【报名截止：8.29】[经济与社会发展研究院](https://esd.nankai.edu.cn/info/1094/4905.htm)
 
 【报名截止：8.25】[国家经济战略研究院](https://nkise.nankai.edu.cn/info/1023/1523.htm)
+
+【报名截止：8.25 17：00】[商学院](https://bs.nankai.edu.cn/2025/0816/c9477a576217/page.htm)
 
 【报名截止：8.22】[旅游与服务学院](https://tas.nankai.edu.cn/info/1071/6340.htm)
 
@@ -1623,7 +1631,7 @@
 
 【报名截止：8.18】[组合数学中心](https://cfc.nankai.edu.cn/2025/0724/c27446a575697/page.htm)
 
-【报名截止：8.17】[药学院](https://pharmacy.nankai.edu.cn/info/1035/3251.htm)
+~~【报名截止：8.17】[药学院](https://pharmacy.nankai.edu.cn/info/1035/3251.htm)~~
 
 ~~【报名截止：8.15】[电子信息与光学工程学院](https://ceo.nankai.edu.cn/info/1099/4393.htm)~~
 
@@ -1713,7 +1721,7 @@
 
 【报名截止：8.18】[社会与人类学院](https://ssa.xmu.edu.cn/info/1171/25452.htm)
 
-【报名截止：8.17 17：00】[数学科学学院](https://math.xmu.edu.cn/info/1026/36750.htm)
+~~【报名截止：8.17 17：00】[数学科学学院](https://math.xmu.edu.cn/info/1026/36750.htm)~~
 
 ~~【报名截止：8.15】[航空航天学院](https://aerospace.xmu.edu.cn/info/2723/60464.htm)~~
 
@@ -2169,6 +2177,8 @@
 
 【报名截止：9.29 17：00】[数学学院](https://math.sysu.edu.cn/article/3739)
 
+【报名截止：9.26】[孙逸仙纪念医院-第一批报名截止时间为8月31日](http://sysyxjy.cn:8080/articleView?id=249778&fd=2&cat=2&type=2&catName=%E6%8B%9B%E7%94%9F)
+
 【报名截止：9.8 12：00】[历史学系（珠海）](https://historyzh.sysu.edu.cn/content/2381)
 
 【报名截止：9.3 23：00】[材料科学与工程学院](https://mse.sysu.edu.cn/article/3404)
@@ -2197,7 +2207,7 @@
 
 【报名截止：8.20 17：00】[地理科学与规划学院](https://gp.sysu.edu.cn/article/4536)
 
-【报名截止：8.17】[土木工程学院](https://civil.sysu.edu.cn/article/2798)
+~~【报名截止：8.17】[土木工程学院](https://civil.sysu.edu.cn/article/2798)~~
 
 ~~【报名截止：8.16】[计算机学院](https://cse.sysu.edu.cn/article/3279)~~
 
@@ -2369,7 +2379,7 @@
 
 【报名截止：8.31】[航空航天学院](https://www.iaa.uestc.edu.cn/info/1143/6375.htm)
 
-【报名截止：8.17】[集成电路科学与工程学院（示范性微电子学院）](https://icse.uestc.edu.cn/info/1057/6806.htm)
+~~【报名截止：8.17】[集成电路科学与工程学院（示范性微电子学院）](https://icse.uestc.edu.cn/info/1057/6806.htm)~~
 
 ~~【报名截止：7.30】[四川省肿瘤医院](https://mp.weixin.qq.com/s/hECimOhaqRx22cwMejOcuQ)~~
 
@@ -2551,7 +2561,7 @@
 
 ## 华南理工大学
 
-【报名截止：8.17】[前沿软物质学院](https://mp.weixin.qq.com/s/taOkR_BevnZQs2vxVvKzuw?scene=1&click_id=6)
+~~【报名截止：8.17】[前沿软物质学院](https://mp.weixin.qq.com/s/taOkR_BevnZQs2vxVvKzuw?scene=1&click_id=6)~~
 
 ~~【报名截止：7.6】[电子与信息学院](https://www2.scut.edu.cn/ee/2025/0620/c35986a594762/page.htm)~~
 
@@ -2602,6 +2612,8 @@
 > [湖南大学招生信息-7月25日开始报名](https://gra.hnu.edu.cn/info/1075/10189.htmtm)
 
 【报名截止：N/A】[生命医学交叉研究院7月27日开始报名](http://smyjy.hnu.edu.cn/info/1137/2276.htm)
+
+【报名截止：N/A】[外国语学院-7月25日开始报名](https://mp.weixin.qq.com/s/fgVkeSOXm0AK1w8vJiZJwQ?scene=1&click_id=2)
 
 【报名截止：N/A】[生命医学交叉研究院](http://smyjy.hnu.edu.cn/info/1137/2276.htm)
 
@@ -3013,7 +3025,11 @@
 
 【报名截止：9.16】[医学部](https://med.dlut.edu.cn/info/1003/8737.htm)
 
+【报名截止：9.16 00：00】[计算机科学与技术学院](https://cs.dlut.edu.cn/info/1256/5249.htm)
+
 【报名截止：9.15】[外国语学院](https://fld.dlut.edu.cn/info/1114/11228.htm)
+
+【报名截止：9.14】[马克思主义学院](https://marx.dlut.edu.cn/info/1008/23011.htm)
 
 【报名截止：9.11】[控制科学与工程学院](http://scse.dlut.edu.cn/info/1471/10511.htm)
 
@@ -3537,9 +3553,9 @@
 
 > [北京邮电大学招生信息](https://yzb.bupt.edu.cn/info/1003/1229.htm)
 
-【报名截止：8.15】[人工智能学院](https://ai.bupt.edu.cn/info/1065/4110.htm)
+~~【报名截止：8.15】[人工智能学院](https://ai.bupt.edu.cn/info/1065/4110.htm)~~
 
-【报名截止：8.15】[集成电路学院](https://ic.bupt.edu.cn/info/1042/1575.htm)
+~~【报名截止：8.15】[集成电路学院](https://ic.bupt.edu.cn/info/1042/1575.htm)~~
 
 ~~【报名截止：7.31】[信息与通信工程学院](https://sice.bupt.edu.cn/info/1042/2509.htm)~~
 
@@ -3629,6 +3645,8 @@
 
 【报名截止：8.31】[自动化学院](https://saee.ustb.edu.cn/tzgg/4614080f756f419da52fb195d99eee2d.htm)
 
+【报名截止：8.31】[新材料技术研究院、高精尖学院](https://mp.weixin.qq.com/s/Iqbhly6exFJtUf_zGVF8-Q?scene=1&click_id=3)
+
 【报名截止：8.31】[绿色低碳钢铁冶金全国重点实验室](https://sklam.ustb.edu.cn/tzgg2/a85be79aec644f23ac01036283cd7442.htm)
 
 【报名截止：8.30】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2025-08-11/2224.html)
@@ -3700,6 +3718,8 @@
 【报名截止：9.14】[公共卫生及应急管理学院](https://sph.sustech.edu.cn/news/detail/350.html?lang=zh-cn&cid=131)
 
 【报名截止：9.6 00：00】[化学系](https://mp.weixin.qq.com/s/LMFdyNvA8KrNM9hQABYtvA)
+
+【报名截止：9.1 9：00】[创新创业学院](http://ie-school.sustech.edu.cn/page/content?id=690)
 
 【报名截止：8.31】[深港微电子学院](https://sme.sustech.edu.cn/index/news/neiye/id/820.html)
 
@@ -4195,6 +4215,8 @@
 
 【报名截止：8.21】[心理与认知科学学院](https://mp.weixin.qq.com/s/OxeVZusxRGgvnaStAVQR9g)
 
+【报名截止：8.21】[语言认知科学专业](https://mp.weixin.qq.com/s/bCgzFMOuzGBEUR7PoVmeHw)
+
 【报名截止：8.21】[心理学、心理语言学和应用心理专业](https://mp.weixin.qq.com/s/2RvNnKtAfgNz_R74o1OoSQ)
 
 ~~【报名截止：8.11】[英语和高级翻译学院外国语言文学类](https://mp.weixin.qq.com/s/kyaK0oU0ZLX-s53gUJRGNw)~~
@@ -4427,7 +4449,7 @@
 
 【报名截止：8.18 17：00】[经济学院](https://jjxy.zuel.edu.cn/2025/0717/c2744a401793/page.htm)
 
-【报名截止：8.17 17:00】[知识产权学院](https://iprcn.zuel.edu.cn/zgzscqyjw-zgzscqyjw_tzgg/zgzscqyjwcn_cont_news/details-41007.html)
+~~【报名截止：8.17 17:00】[知识产权学院](https://iprcn.zuel.edu.cn/zgzscqyjw-zgzscqyjw_tzgg/zgzscqyjwcn_cont_news/details-41007.html)~~
 
 ~~【报名截止：8.15 12：00】[新闻学院](https://xwcb.zuel.edu.cn/2025/0724/c6951a402963/pagem.htm)~~
 
@@ -4797,6 +4819,8 @@
 
 ## 中国人民解放军火箭军工程大学
 
+【报名截止：8.30 12：00】[火箭军工程大学](https://mp.weixin.qq.com/s/XCqa11_TkmKwwYnrmSJqAw?scene=1&click_id=9)
+
 ~~【报名截止：7.30 12：00】[火箭军工程大学](https://mp.weixin.qq.com/s/DV6mu92s0TY4p2chYlpnyA)~~
 
 ## 中国人民解放军陆军军医大学
@@ -5078,6 +5102,8 @@
 ## 上海海事大学
 
 【报名截止：9.21】[外国语学院](https://cfl.shmtu.edu.cn/2025/0815/c6047a266657/page.htm)
+
+【报名截止：9.21】[马克思主义学院](https://mp.weixin.qq.com/s/ySX4mm2qGJnCRcdUncvpRQ?search_click_id=5504749638493336820-1755409424953-4046219089&scene=1&click_id=2)
 
 ~~【报名截止：7.15】[交通运输工程学院](https://jt.dlmu.edu.cn/info/1004/5144.htm)~~
 
@@ -5493,7 +5519,13 @@
 
 【报名截止：N/A】[工程机械学院](https://cmcs.chd.edu.cn/2025/0810/c8633a254083/page.htm)
 
+【报名截止：N/A】[人文学院-8月11日报名](https://rwxy.chd.edu.cn/info/1061/3412.htm)
+
 【报名截止：N/A】[土地工程学院-8月11日报名](https://sle.chd.edu.cn/2025/0813/c5515a254099/page.htm)
+
+【报名截止：N/A】[理学院-8月11日报名](https://lxy.chd.edu.cn/info/1008/23560.htm)
+
+【报名截止：N/A】[汽车学院-8月11日报名](https://mp.weixin.qq.com/s/M7a1A2J5rPsWYrSAy7uprg?scene=1&click_id=4)
 
 【报名截止：N/A】[材料科学与工程学院-8月11日报名](https://mp.weixin.qq.com/s/QRxyVIvXQ0f0P2yZtRXESw?click_id=48)
 
@@ -5803,7 +5835,7 @@
 
 ## 温州医科大学
 
-【报名截止：7.30 12：00】[第一临床医学院（信息与工程学院）](https://ygb.wzhospital.cn:8016/wyyy_gzb/yjsk/home/xwnr.aspx?ksdm=530&id=146014)
+~~【报名截止：7.30 12：00】[第一临床医学院（信息与工程学院）](https://ygb.wzhospital.cn:8016/wyyy_gzb/yjsk/home/xwnr.aspx?ksdm=530&id=146014)~~
 
 ~~【报名截止：7.17】[视觉健康全国重点实验室](https://mp.weixin.qq.com/s/LZVGhnMo2KLuVLHI5UX8GA)~~
 
@@ -5985,7 +6017,7 @@
 
 ## 徐州医科大学
 
-【报名截止：8.8】[急救与救援医学系](https://delc.xzhmu.edu.cn/info/1014/3037.htm)
+~~【报名截止：8.8】[急救与救援医学系](https://delc.xzhmu.edu.cn/info/1014/3037.htm)~~
 
 ## 北京中关村学院
 
@@ -6156,6 +6188,8 @@
 ~~【报名截止：7.6】[中医基础理论研究所](https://www.ibtcm.ac.cn/detail.thtml?contentId=9905)~~
 
 ## 中国航天科工集团
+
+【报名截止：8.22 17：00】[第二研究院](https://mp.weixin.qq.com/s/nPc7yDNdKgtURRp32JsciA)
 
 ~~【报名截止：7.4 17：00】[第二研究院](https://mp.weixin.qq.com/s/-mmGj4Fsi5En6-3oA79wxg)~~
 
