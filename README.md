@@ -1815,6 +1815,10 @@
 
 【报名截止：N/A】[材料科学与工程学院](http://www.mse.buaa.edu.cn/info/1037/7982.htm)
 
+【报名截止：9.22 16：00】[航空科学与工程学院](http://www.ase.buaa.edu.cn/info/1113/15981.htm)
+
+【报名截止：9.22 12：00】[计算机学院](https://scse.buaa.edu.cn/info/1099/12057.htm)
+
 【报名截止：9.18 12：00】[北航可靠性与系统工程学院](https://rse.buaa.edu.cn/info/1307/4581.htm)
 
 【报名截止：9.17 9：00】[发动机研究院](https://riae.buaa.edu.cn/info/1183/5836.htm)
