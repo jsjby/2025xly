@@ -3213,7 +3213,15 @@
 
 【报名截止：9.26】[附属第三医院](https://www.zssy.com.cn/article/28869)
 
+【报名截止：9.26 12：00】[生命科学学院](https://lifesciences.sysu.edu.cn/zh-hans/article/5283)
+
 【报名截止：9.25 17：00】[附属第八医院](https://www.sysu8h.com.cn/article/9402)
+
+【报名截止：9.25 12：00】[心理学系](https://mp.weixin.qq.com/s/8Yyj-UNsGm3vcytEgw6evw?scene=1)
+
+【报名截止：9.23】[大气科学学院](https://atmos.sysu.edu.cn/article/4375)
+
+【报名截止：9.23 15：00】[海洋工程与技术学院关于](https://soet.sysu.edu.cn/zh-hans/article/1253)
 
 【报名截止：9.19 12：00】[化学学院-校企联培工程硕博专项研](https://ce.sysu.edu.cn/zh-hans/article/8752)
 
@@ -3483,6 +3491,8 @@
 
 【报名截止：N/A】[数学科学学院](https://www.math.uestc.edu.cn/info/1029/9278.htm)
 
+【报名截止：9，25】[经济与管理学院-少量名额](https://www.mgmt.uestc.edu.cn/info/1087/24640.htm)
+
 【报名截止：9.17 17：00】[材料与能源学院](https://materials.uestc.edu.cn/info/1056/8258.htm)
 
 【报名截止：9.17 12：00】[计算机科学与工程学院（网络空间安全学院）](https://www.scse.uestc.edu.cn/info/1015/17362.htm)
@@ -3582,6 +3592,8 @@
 【报名截止：N/A】[机械学院](https://mse.hust.edu.cn/info/1181/17280.htm)
 
 【报名截止：N/A】[建筑与城市规划学院](https://aup.hust.edu.cn/info/1030/5091.htm)
+
+【报名截止：9.22 20：00】[电信学院](https://ei.hust.edu.cn/info/1150/8375.htm)
 
 【报名截止：9.18】[体育学院](https://gszs.hust.edu.cn/info/1106/4010.htm)
 
@@ -3731,6 +3743,10 @@
 
 【报名截止：N/A】[哲学系](http://www.philo.ecnu.edu.cn/ec/c3/c36259a715971/page.htm)
 
+【报名截止：9.23 10：00】[软件工程学院（滴水湖国际软件学院）](https://sei.ecnu.edu.cn/f2/20/c33171a717344/page.htm)
+
+【报名截止：9.22 20：00】[生命科学学院](https://life.ecnu.edu.cn/f2/41/c18138a717377/page.htm)
+
 【报名截止：9.17 12：00】[心理与认知科学学院](https://mp.weixin.qq.com/s/lS6Og5JyPIG_abiWh_hM2Q)
 
 ~~【报名截止：9.16】[社会发展学院](https://mp.weixin.qq.com/s/_NKZcazowna4aROZESZQng?scene=1)~~
@@ -3873,6 +3889,8 @@
 
 【报名截止：N/A】[生物医学科学与工程学院](https://mp.weixin.qq.com/s/EazWGkWZczP3uh732t5PGQ?poc_token=HKUnvWijKjASRrIWU41Q7HOpHMokcQLWzF5bryku)
 
+【报名截止：9.22 17：00】[机械与汽车工程学院](https://www2.scut.edu.cn/smae/2025/0921/c20808a603173/page.htm)
+
 ~~【报名截止：9.12】[数学学院](https://www2.scut.edu.cn/math/2025/0909/c14433a601530/page.htm)~~
 
 ~~【报名截止：9.11 12：00】[新闻与传播学院](https://www2.scut.edu.cn/communication/2025/0905/c34222a601020/page.htm)~~
@@ -3958,6 +3976,8 @@
 ## 湖南大学
 
 > [湖南大学招生信息-7月25日开始报名](https://gra.hnu.edu.cn/info/1075/10189.htmtm)
+
+【报名截止：N/A】[生命医学交叉研究院-少量名额](http://smyjy.hnu.edu.cn/info/1137/2304.htm)
 
 【报名截止：N/A】[生命医学交叉研究院7月27日开始报名](http://smyjy.hnu.edu.cn/info/1137/2276.htm)
 
@@ -4836,6 +4856,8 @@
 ~~【报名截止：7.11 9：00】[计算机科学与技术学院](https://cs.dlut.edu.cn/info/1256/5159.htm)~~
 
 ## 中国科学院
+
+【报名截止：N/A】[自动化研究所-推免(少量名额)](https://ia.cas.cn/yjsjy/zs/sszs/202509/t20250922_7972159.html)
 
 【报名截止：N/A】[计算机网络信息中心-推免(少量名额)](https://cnic.cas.cn/yjsjy/zsxx/202509/t20250916_7969127.html)
 
